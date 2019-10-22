@@ -1,7 +1,7 @@
 select_all: 모두 선택
 clear_all: 모두 취소
 clear_selections: 초기화
-variable_hint: '%field' 항목을 먼저 선택해 주세요.
+variable_hint: Available when '%field' is selected
 no_data_hint: No options available because of filters above
 download_headline: Download Headline CSV
 download_headline_title: Download headline data as CSV
@@ -28,7 +28,7 @@ legend_help: 범례의 개별 항목을 클릭하면 해당 항목을 그래프�
 chart: 그래프
 table: 표
 map: 지도
-loading_map: 지도를 불러오고 있습니다.
+loading_map: Loading map
 national_metadata: 통계설명자료
 national_metadata_blurb: 지표에 대한 설명자료를 보실 수 있습니다.
 global_metadata: 글로벌 메타데이터
