@@ -1,672 +1,338 @@
 '1-1':
-  title: By 2030, eradicate extreme poverty for all people everywhere, currently measured
-    as people living on less than $1.25 a day
+  title: 2030년까지 1일 생계비 1.25 달러 미만으로 살고 있는 모든 인구를 모든 곳에서 종식
 '1-2':
-  title: By 2030, reduce at least by half the proportion of men, women and children
-    of all ages living in poverty in all its dimensions according to national definitions
+  title: 각 국가 빈곤정의에 따라 2030년까지 모든 측면에서 빈곤 속에 사는 모든 연령층의 남성, 여성, 그리고 아동 비율을 최소 절반으로 감소
 '1-3':
-  title: Implement nationally appropriate social protection systems and measures for
-    all, including floors, and by 2030 achieve substantial coverage of the poor and
-    the vulnerable
+  title: 사회안전망을 포함하여 모두를 위해 국가별로 적합한 사회적 보호체제 및 조치를 이행하고, 2030년까지 빈곤층과 취약계층에 대한 실질적 보장을 달성
 '1-4':
-  title: By 2030, ensure that all men and women, in particular the poor and the vulnerable,
-    have equal rights to economic resources, as well as access to basic services,
-    ownership and control over land and other forms of property, inheritance, natural
-    resources, appropriate new technology and financial services, including microfinance
+  title: 2030년까지 모든 남성과 여성, 특히 빈곤층과 취약계층이 경제적 자원과  기본 서비스, 토지와 기타 형태의 재산에 대한 소유와 통제, 상속, 천연자원, 적정 신기술 및 소액금융을 포함한 금융서비스에 공평하게 접근할 수 있는 권리 보장
 '1-5':
-  title: By 2030, build the resilience of the poor and those in vulnerable situations
-    and reduce their exposure and vulnerability to climate-related extreme events
-    and other economic, social and environmental shocks and disasters
+  title: 2030년까지 빈곤층과 취약계층의 회복력을 키우고,  기후 관련 극한 상황 혹은 기타 경제적, 사회적, 환경적인 충격과 재난에 대한 노출 및 취약성을 감소
 1-a:
-  title: Ensure significant mobilization of resources from a variety of sources, including
-    through enhanced development cooperation, in order to provide adequate and predictable
-    means for developing countries, in particular least developed countries, to implement
-    programmes and policies to end poverty in all its dimensions
+  title: 개도국 특히, 최빈국이 모든 차원의 빈곤 퇴치 프로그램과 정책 제공을 위해  증강된 개발협력 을 포함하여 다양한 재원 동원 보장
 1-b:
-  title: Create sound policy frameworks at the national, regional and international
-    levels, based on pro-poor and gender-sensitive development strategies, to support
-    accelerated investment in poverty eradication actions
+  title: 빈곤퇴치 활동에 대한 투자를 촉진하기 위해 빈곤층 친화적이고 성 인지적 재발전략을 기초로 한 국가, 지역, 글로벌 차원의 탄탄한 정책 프레임워크 수립
 '10-1':
-  title: By 2030, progressively achieve and sustain income growth of the bottom 40
-    per cent of the population at a rate higher than the national average
+  title: 2030년까지 소득하위 40%의 소득성장률을 점진적으로 국가평균보다 높게 달성 및 유지
 '10-2':
-  title: By 2030, empower and promote the social, economic and political inclusion
-    of all, irrespective of age, sex, disability, race, ethnicity, origin, religion
-    or economic or other status
+  title: 2030년까지 연령, 성, 장애, 인종, 종교, 기타 사회경제적 지위를 막론하고 사회, 경제, 정치적 참여 권한 확대 및 촉진
 '10-3':
-  title: Ensure equal opportunity and reduce inequalities of outcome, including by
-    eliminating discriminatory laws, policies and practices and promoting appropriate
-    legislation, policies and action in this regard
+  title: 차별적인 법, 정책 및 관행 등을 철폐하여 동등한 기회를 보장하고 소득 불평등 감소
 '10-4':
-  title: Adopt policies, especially fiscal, wage and social protection policies, and
-    progressively achieve greater equality
+  title: 재정정책, 임금정책, 사회보장정책 등을 채택하고 점진적으로 더 나은 평등을 달성
 '10-5':
-  title: Improve the regulation and monitoring of global financial markets and institutions
-    and strengthen the implementation of such regulations
+  title: 글로벌 금융시장 및 기관의 규제 및 모니터링 개선 및 이행조치 강화
 '10-6':
-  title: Ensure enhanced representation and voice for developing countries in decision-making
-    in global international economic and financial institutions in order to deliver
-    more effective, credible, accountable and legitimate institutions
+  title: 글로벌 국제경제 및 금융기관의 의사결정과정에서 개발도상국가의 입장이 반영되도록 강화
 '10-7':
-  title: Facilitate orderly, safe, regular and responsible migration and mobility
-    of people, including through the implementation of planned and well-managed migration
-    policies
+  title: 안전하고, 정기적이고, 책임 있는 인구의 이주 및 이동이 가능토록하고 잘 관리된 이민정책 수립 및 이행
 10-a:
-  title: Implement the principle of special and differential treatment for developing
-    countries, in particular least developed countries, in accordance with World Trade
-    Organization agreements
+  title: WTO협약에 따른 개발도상국(특히, 최빈개도국) 특별대우 규정 이행
 10-b:
-  title: Encourage official development assistance and financial flows, including
-    foreign direct investment, to States where the need is greatest, in particular
-    least developed countries, African countries, small island developing States and
-    landlocked developing countries, in accordance with their national plans and programmes
+  title: 도움이 필요한 국가에(최빈개도국, 아프리카 국가, 군서도서개발국) ODA, 재원 지원, 직접투자 권장
 10-c:
-  title: By 2030, reduce to less than 3 per cent the transaction costs of migrant
-    remittances and eliminate remittance corridors with costs higher than 5 per cent
+  title: 2030년까지 이민자송금 수수료 3% 이하로 감소 및 5%를 초과하는 송금 장벽 제거
 '11-1':
-  title: By 2030, ensure access for all to adequate, safe and affordable housing and
-    basic services and upgrade slums
+  title: 2030년까지 모두에게 충분하고 안전 및 저렴한 주택 및 기본서비스 제공 그리고 빈민가 개선
 '11-2':
-  title: By 2030, provide access to safe, affordable, accessible and sustainable transport
-    systems for all, improving road safety, notably by expanding public transport,
-    with special attention to the needs of those in vulnerable situations, women,
-    children, persons with disabilities and older persons
+  title: 2030년까지 모두에게(특히, 취약계층, 여성, 아동, 노인, 장애인) 안전 및 저렴하고 지속가능한 공공 교통시스템 제공
 '11-3':
-  title: By 2030, enhance inclusive and sustainable urbanization and capacity for
-    participatory, integrated and sustainable human settlement planning and management
-    in all countries
+  title: 2030년까지 포괄적이고 지속가능한 도시화와, 참여, 통합 및 지속가능한 거주지 계획 및 관리 역량 강화 
 '11-4':
-  title: Strengthen efforts to protect and safeguard the world’s cultural and natural
-    heritage
+  title: 세계문화 및 자연유산 보호 노력 강화
 '11-5':
-  title: By 2030, significantly reduce the number of deaths and the number of people
-    affected and substantially decrease the direct economic losses relative to global
-    gross domestic product caused by disasters, including water-related disasters,
-    with a focus on protecting the poor and people in vulnerable situations
+  title: 2030년까지, 빈곤층과 취약계층 보호에 초점을 맞추어, 수해 등 재난으로 인한 사망자 및 피해자수를 대폭 줄이고 세계 총 GDP대비 직접적인 경제적 손실을 대폭 감소
 '11-6':
-  title: By 2030, reduce the adverse per capita environmental impact of cities, including
-    by paying special attention to air quality and municipal and other waste management
+  title: 대기의 질과 지자체 등의 폐기물 특별 관리를 포함하여, 2030년까지 도시화로 인한 부정적인 환경영향(인구 1인당)을 감소
 '11-7':
-  title: By 2030, provide universal access to safe, inclusive and accessible, green
-    and public spaces, in particular for women and children, older persons and persons
-    with disabilities
+  title: 2030년까지 포괄적이고 안전하며 보편적으로 접근 가능한 녹색 및 공공장소 제공 (특히, 여성, 아동, 노인, 장애인)
 11-a:
-  title: Support positive economic, social and environmental links between urban,
-    peri-urban and rural areas by strengthening national and regional development
-    planning
+  title: 국가 및 지역개발계획을 강화하여 도시, 근교도시 그리고 농촌간의 긍정적인 경제, 사회 및 환경적 연결고리를 지원
 11-b:
-  title: By 2020, substantially increase the number of cities and human settlements
-    adopting and implementing integrated policies and plans towards inclusion, resource
-    efficiency, mitigation and adaptation to climate change, resilience to disasters,
-    and develop and implement, in line with the Sendai Framework for Disaster Risk
-    Reduction 2015–2030, holistic disaster risk management at all levels
+  title: 2020년까지 포용, 자원 효율, 기후 변화에 대한 완화와 적응, 재난에 대한 회복력을 위한 통합 정책 및 계획을 채택, 시행하는 도시와 거주지의 수를 대폭 확대하고, 2015-2030년 재난위험감소를 위한 센다이 프레임워크에 맞추어 모든 수준에서의 통합적인 재난위기관리를 구축하고 시행함
 11-c:
-  title: Support least developed countries, including through financial and technical
-    assistance, in building sustainable and resilient buildings utilizing local materials
+  title: 최빈개도국이 지역 건설자재를 사용하여 지속가능하고 탄력적인 건물을 만들 수 있도록 재원 및 기술적 지원을 비롯한 다양한 지원
 '12-1':
-  title: Implement the 10‐Year Framework of Programmes on Sustainable Consumption
-    and Production Patterns, all countries taking action, with developed countries
-    taking the lead, taking into account the development and capabilities of developing
-    countries
+  title: 선진국 주도하에, 개발도상국들의 역량과 발전을 고려하여, 지속가능한 소비 및 생산에 대한 10년 주기 프로그램 이행
 '12-2':
-  title: By 2030, achieve the sustainable management and efficient use of natural
-    resources
+  title: 2030년까지 천연자원의 효율적인 사용 및 지속가능한 관리 달성
 '12-3':
-  title: By 2030, halve per capita global food waste at the retail and consumer levels
-    and reduce food losses along production and supply chains, including post-harvest
-    losses
+  title: 2030년까지 소매 및 소비자 수준에서 1인당 식품폐기물을 1/2로 감소하고 식품 생산 및 유통과정에서 발생하는 식품 손실량 감소
 '12-4':
-  title: By 2020, achieve the environmentally sound management of chemicals and all
-    wastes throughout their life cycle, in accordance with agreed international frameworks,
-    and significantly reduce their release to air, water and soil in order to minimize
-    their adverse impacts on human health and the environment
+  title: 2020년까지, 합의된 국제 프레임워크에 따라 화학물질 및 모든 폐기물에 대해 수명 주기 동안 친환경적인 관리를 달성하고, 이들이 인체 건강 및 환경에 끼치는 부정적 영향을 최소화하기 위해, 공기, 물, 토양으로의 배출을 크게 감소
 '12-5':
-  title: By 2030, substantially reduce waste generation through prevention, reduction,
-    recycling and reuse
+  title: 2030년까지 방지, 감축, 재생 및 재사용을 통하여 폐기물 발생 감소
 '12-6':
-  title: Encourage companies, especially large and transnational companies, to adopt
-    sustainable practices and to integrate sustainability information into their reporting
-    cycle
+  title: 기업들이(특히, 대기업 및 다국적기업) 보고체계에 지속가능성 관련 정보를 반영토록하고 지속가능한 기업 활동을 이행하도록 권고
 '12-7':
-  title: Promote public procurement practices that are sustainable, in accordance
-    with national policies and priorities
+  title: 국가정책 및 우선순위에 따라 지속가능한 공공조달 관행 촉진
 '12-8':
-  title: By 2030, ensure that people everywhere have the relevant information and
-    awareness for sustainable development and lifestyles in harmony with nature
+  title: 2030년까지 모든 곳에서의 사람들이 지속가능발전과 자연과 조화로운 라이프스타일에 대한 의식 및 정보를 가질 수 있게 보장
 12-a:
-  title: Support developing countries to strengthen their scientific and technological
-    capacity to move towards more sustainable patterns of consumption and production
+  title: 개발도상국이 지속가능한 소비 및 생산 방향으로 전환할 수 있게 과학기술 역량 강화 지원
 12-b:
-  title: Develop and implement tools to monitor sustainable development impacts for
-    sustainable tourism that creates jobs and promotes local culture and products
+  title: 일자리 창출 및 지역 문화 및 상품을 홍보하는 관광업의 지속가능발전 영향을 모니터링 하는 도구 개발 및 이행
 12-c:
-  title: Rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption
-    by removing market distortions, in accordance with national circumstances, including
-    by restructuring taxation and phasing out those harmful subsidies, where they
-    exist, to reflect their environmental impacts, taking fully into account the specific
-    needs and conditions of developing countries and minimizing the possible adverse
-    impacts on their development in a manner that protects the poor and the affected
-    communities
+  title: 조세구조 조정 및 유해 보조금의 단계적 폐지를 통한 시장왜곡 요인 제거를 포함하여 에너지낭비를 부추기는 비효율적인 화석 연료 보조금의 합리화 이행 (이때, 개발도상국의 특수한 상황과 수요를 충분히 고려하고 취약계층을 보호를 통해 개도국의 발전에 대한 악영향을 최소화함)
 '13-1':
-  title: Strengthen resilience and adaptive capacity to climate-related hazards and
-    natural disasters in all countries
+  title: 기후관련 위험요소와 자연재해에 대한 적응역량 및 탄력성 강화
 '13-2':
-  title: Integrate climate change measures into national policies, strategies and
-    planning
+  title: 국가정책, 전략 및 계획에 기후변화 조치 통합
 '13-3':
-  title: Improve education, awareness-raising and human and institutional capacity
-    on climate change mitigation, adaptation, impact reduction and early warning
+  title: 기후 변화 완화, 적응, 영향 감소, 조기 경보에 대한 교육, 인식 고취, 인구 및 제도 역량 개선
 13-a:
-  title: Implement the commitment undertaken by developed-country parties to the United
-    Nations Framework Convention on Climate Change to a goal of mobilizing jointly
-    $100 billion annually by 2020 from all sources to address the needs of developing
-    countries in the context of meaningful mitigation actions and transparency on
-    implementation and fully operationalize the Green Climate Fund through its capitalization
-    as soon as possible
+  title: 개발도상 국가들의 기후변화 완화 활동의 이행 및 녹색기후펀드의 완전한 운영을 위해 유엔기후변화협약 상의 선진국들의 공약인 연간 $1000억 동원 즉각 이행
 13-b:
-  title: Promote mechanisms for raising capacity for effective climate change-related
-    planning and management in least developed countries and small island developing
-    States, including focusing on women, youth and local and marginalized communities
+  title: 최빈개도국의 효과적인 기후변화 관련 계획 및 관리 역량 제고 메카니즘 촉진(취약계층, 여성, 청소년 및 소외집단 포함)
 '14-1':
-  title: By 2025, prevent and significantly reduce marine pollution of all kinds,
-    in particular from land-based activities, including marine debris and nutrient
-    pollution
+  title: 2025년까지 해양 폐기물과 영양분 오염을 포함하여, 모든 형태의 해양 오염 방지 및 감소
 '14-2':
-  title: By 2020, sustainably manage and protect marine and coastal ecosystems to
-    avoid significant adverse impacts, including by strengthening their resilience,
-    and take action for their restoration in order to achieve healthy and productive
-    oceans
+  title: 2020년까지 회복력 및 복원활동을 강화하여 해양 및 연안 생태계를 지속 가능하게 관리하고 보호  조치 실행
 '14-3':
-  title: Minimize and address the impacts of ocean acidification, including through
-    enhanced scientific cooperation at all levels
+  title: 모든 수준에서의 과학협력을 포함하여 해양 산성화 최소화 및 그 영향에 대응
 '14-4':
-  title: By 2020, effectively regulate harvesting and end overfishing, illegal, unreported
-    and unregulated fishing and destructive fishing practices and implement science-based
-    management plans, in order to restore fish stocks in the shortest time feasible,
-    at least to levels that can produce maximum sustainable yield as determined by
-    their biological characteristics
+  title: 2020년까지 효과적인 어업 규제, 불법·비보고·비규제 어업, 남획, 파괴적인 어업 방법 금지; 최단시간에 어획량을 복원하기 위한 과학적 관리계획 이행
 '14-5':
-  title: By 2020, conserve at least 10 per cent of coastal and marine areas, consistent
-    with national and international law and based on the best available scientific
-    information
+  title: 2020년까지 가용한 과학적 정보 및 국가법·국제법과 일관되게 최소 연안 및 해양지역의 10% 보호
 '14-6':
-  title: By 2020, prohibit certain forms of fisheries subsidies which contribute to
-    overcapacity and overfishing, eliminate subsidies that contribute to illegal,
-    unreported and unregulated fishing and refrain from introducing new such subsidies,
-    recognizing that appropriate and effective special and differential treatment
-    for developing and least developed countries should be an integral part of the
-    World Trade Organization fisheries subsidies negotiation
+  title: WTO 어업보조금 협상에 개발도상국 및 최빈개도국에 대한 효과적인 특별대우가 중요함을 인정하고 2020년까지 생산과잉 및 남획, 불법·비보고·비규제 어업에 기여하는 특정형태의 어업 보조금 금지 그리고 이와 유사한 신규 보조금 도입 자제
 '14-7':
-  title: By 2030, increase the economic benefits to small island developing States
-    and least developed countries from the sustainable use of marine resources, including
-    through sustainable management of fisheries, aquaculture and tourism
+  title: 2030년까지 해양자원의 지속가능한 사용 및 관리를 통하여 최빈개도국 및 군서도서 개발국의 경제적 이익 증가
 14-a:
-  title: Increase scientific knowledge, develop research capacity and transfer marine
-    technology, taking into account the Intergovernmental Oceanographic Commission
-    Criteria and Guidelines on the Transfer of Marine Technology, in order to improve
-    ocean health and to enhance the contribution of marine biodiversity to the development
-    of developing countries, in particular small island developing States and least
-    developed countries
+  title: 해양건강 개선 및 해양 다양성 강화를 통해 개발도상국가, 특히 군소도서 개발국과 최빈개도국들의 개발에 기여하도록 연구역량 증대 및 과학지식, 선진해양기술 이전(정부간해양학위원회의 해양기술이전에 대한 기준과 지침을 고려)
 14-b:
-  title: Provide access for small-scale artisanal fishers to marine resources and
-    markets
+  title: 소규모 영세어업자들에 해양자원 및 시장 접근성 제공
 14-c:
-  title: Enhance the conservation and sustainable use of oceans and their resources
-    by implementing international law as reflected in the United Nations Convention
-    on the Law of the Sea, which provides the legal framework for the conservation
-    and sustainable use of oceans and their resources, as recalled in paragraph 158
-    of “The future we want”
+  title: 우리가 원하는 미래 (The Future We Want) 보고서의 158번째 단락에서 상기된 대양 및 대양자원의 보전 및 지속가능한 이용을 위한 법적기반을 제시하는 UNCLOS에 반영된 국제법 이행을 통해 대양 및 대양 자원의 보전 및 지속가능한 이용을 개선
 '15-1':
-  title: By 2020, ensure the conservation, restoration and sustainable use of terrestrial
-    and inland freshwater ecosystems and their services, in particular forests, wetlands,
-    mountains and drylands, in line with obligations under international agreements
+  title: 2020년까지, 국제 협약 의무에 따라, 특히 산림, 습지, 산, 건조지 등의 육지 및 내륙 담수 생태계와 그 서비스에 대한 보전, 복원 및 지속가능한 사용을 보장
 '15-2':
-  title: By 2020, promote the implementation of sustainable management of all types
-    of forests, halt deforestation, restore degraded forests and substantially increase
-    afforestation and reforestation globally
+  title: 2020년까지 모든 형태의 산림에 대한 지속가능한 관리를 촉진시키고, 산림벌채를 중단하고, 황폐화된 산림을 복원하고 전 세계적으로 조림과 재식림을 대폭 확대 
 '15-3':
-  title: By 2030, combat desertification, restore degraded land and soil, including
-    land affected by desertification, drought and floods, and strive to achieve a
-    land degradation-neutral world
+  title: 2030년까지 사막화 퇴치와 사막화, 가뭄, 홍수로 영향을 받은 토지를 포함하여, 황폐화된 토지 및 토양 복원, 그리고 토지 황폐화 가 없는 세계 달성을 위해 노력 
 '15-4':
-  title: By 2030, ensure the conservation of mountain ecosystems, including their
-    biodiversity, in order to enhance their capacity to provide benefits that are
-    essential for sustainable development
+  title: 2030년까지 지속가능발전에 필수적인 이익을 주는 산림생태계의 수용력을 증진하기 위해, 생물다양성을 포함한 산림 생태계 보존을 보장
 '15-5':
-  title: Take urgent and significant action to reduce the degradation of natural habitats,
-    halt the loss of biodiversity and, by 2020, protect and prevent the extinction
-    of threatened species
+  title: 자연 서식지의 황폐화를 감소시키고 생물다양성의 손실을 중단시키기 위해 시급하고 대대적인 조치를 취하고 2020년까지 멸종위기 종을 보호하고  멸종을 예방
 '15-6':
-  title: Promote fair and equitable sharing of the benefits arising from the utilization
-    of genetic resources and promote appropriate access to such resources, as internationally
-    agreed
+  title: 국제적으로 합의된 바와 같이, 유전자원의 활용으로부터 발생하는 이익의 공정하고 공평한 분배 보장 및 유전자원에 대한 적절한 접근 증대
 '15-7':
-  title: Take urgent action to end poaching and trafficking of protected species of
-    flora and fauna and address both demand and supply of illegal wildlife products
+  title: 보호동식물의 밀렵과 밀매 근절을 위한 즉각적인 행동을 촉구하고, 불법야생동식물제품의 수요와 공급에 대응
 '15-8':
-  title: By 2020, introduce measures to prevent the introduction and significantly
-    reduce the impact of invasive alien species on land and water ecosystems and control
-    or eradicate the priority species
+  title: 2020년까지 육상 및 수중 생태계를 교란하는 외래종의 유입을 방지하고, 그로 인한 영향을 현저히 감소시키는 방안을 도입하며, 우선대응 및 대상종을 통제 및 박멸
 '15-9':
-  title: By 2020, integrate ecosystem and biodiversity values into national and local
-    planning, development processes, poverty reduction strategies and accounts
+  title: 2020년까지 생태계 및 생물다양성 가치를 국가 및 지역 계획․개발 과정 그리고 빈곤퇴치 전략 및 회계에 반영
 15-a:
-  title: Mobilize and significantly increase financial resources from all sources
-    to conserve and sustainably use biodiversity and ecosystems
+  title: 생물다양성 및 생태계 보호 및 지속가능한 사용을 위한 재원 동원
 15-b:
-  title: Mobilize significant resources from all sources and at all levels to finance
-    sustainable forest management and provide adequate incentives to developing countries
-    to advance such management, including for conservation and reforestation
+  title: 지속가능한 삼림관리에 대한 재원 마련을 위해 모든 수준에서 주요한 자원을 모두 동원하고 개발도사국이 보존 및 재식림 등을 위한 삼림 관리를 즈진할 수 있도록 충분한 인센티브를 제공
 15-c:
-  title: Enhance global support for efforts to combat poaching and trafficking of
-    protected species, including by increasing the capacity of local communities to
-    pursue sustainable livelihood opportunities
+  title: 지속가능한 생계수단의 추구를 위한 지역사회의 역량 제고를 포함하여 멸종위기종의 밀렵 및 밀매 활동 근절을 위한 글로벌 차원의 노력 강화
 '16-1':
-  title: Significantly reduce all forms of violence and related death rates everywhere
+  title: 모든 지역에서 일어나는 모든 형태의 폭력과 관련 사망률을 상당 수준으로 감소 
 '16-10':
-  title: Ensure public access to information and protect fundamental freedoms, in
-    accordance with national legislation and international agreements
+  title: 국내법 및 국제조약에 따라 정보에 대한 대중의 접근성을 보장하고 기본적인 자유를  보호
 '16-2':
-  title: End abuse, exploitation, trafficking and all forms of violence against and
-    torture of children
+  title: 아동에 대한 학대, 착취, 인신매매 및 모든 형태의 폭력과 고문 종식
 '16-3':
-  title: Promote the rule of law at the national and international levels and ensure
-    equal access to justice for all
+  title: 국가적 및 국제적 수준에서 법치를 증진하며, 모두에게 평등한 사법 접근권을 보장
 '16-4':
-  title: By 2030, significantly reduce illicit financial and arms flows, strengthen
-    the recovery and return of stolen assets and combat all forms of organized crime
+  title: 2030년까지 불법 자금 및 무기 거래를 상당 수준으로 감소, 은닉재산 회수 및 환수를 강화하며, 모든 형태의 조직화된 범죄를 방지
 '16-5':
-  title: Substantially reduce corruption and bribery in all their forms
+  title: 모든 형태의 부정부패 및 뇌물을 대폭 감소
 '16-6':
-  title: Develop effective, accountable and transparent institutions at all levels
+  title: 모든 수준에서 효과적이고, 책임 있고, 투명한 제도 개발
 '16-7':
-  title: Ensure responsive, inclusive, participatory and representative decision-making
-    at all levels
+  title: 모든 수준에서 의사결정이 대응적, 포용적, 참여적이며 대표성을 갖출 수 있도록 보장
 '16-8':
-  title: Broaden and strengthen the participation of developing countries in the institutions
-    of global governance
+  title: 글로벌 거버넌스 제도 하에서 개발도상국의 참여를 확대하고 강화
 '16-9':
-  title: By 2030, provide legal identity for all, including birth registration
+  title: 2030년까지 출생등록을 포함하여 모두에게 법적신원 제공
 16-a:
-  title: Strengthen relevant national institutions, including through international
-    cooperation, for building capacity at all levels, in particular in developing
-    countries, to prevent violence and combat terrorism and crime
+  title: 폭력예방 및 테러, 범죄 예방 차원에서  모든 수준, 특히 개도국에서 역량강화를 위해 국제협력 등을 포함하여 관련된 국내 제도 강화 
 16-b:
-  title: Promote and enforce non-discriminatory laws and policies for sustainable
-    development
+  title: 지속가능발전을 위한 비차별적 법률과  정책의 증진 및 강화 
 '17-1':
-  title: Strengthen domestic resource mobilization, including through international
-    support to developing countries, to improve domestic capacity for tax and other
-    revenue collection
+  title: 조세 및 기타 수입 징수 국내역량 개선을 위해 국내재원 동원 강화 (개발도상국에 대한 국제지원 포함)
 '17-10':
-  title: Promote a universal, rules-based, open, non‐discriminatory and equitable
-    multilateral trading system under the World Trade Organization, including through
-    the conclusion of negotiations under its Doha Development Agenda
+  title: 도하개발의제 협상 타결을 통하여 세계무역기구(WTO)하에서의 보편적, 규칙기반, 개방적, 비차별적, 공평한 다자무역제도 촉진
 '17-11':
-  title: Significantly increase the exports of developing countries, in particular
-    with a view to doubling the least developed countries’ share of global exports
-    by 2020
+  title: 2020년까지 전 세계 수출에서 최빈개도국의 비중을 2배 증대하는 것을 목표로 개발도상국의 수출을 대폭 증대
 '17-12':
-  title: Realize timely implementation of duty-free and quota-free market access on
-    a lasting basis for all least developed countries, consistent with World Trade
-    Organization decisions, including by ensuring that preferential rules of origin
-    applicable to imports from least developed countries are transparent and simple,
-    and contribute to facilitating market access
+  title: 최빈개도국 수입품에 대한 특혜 원산지규정 투명성 및 명료성을 포함하여 최빈개도국의 무관세 및 수량규제 없는 시장접근에 대한 WTO 결정을 시의성 있게 이행
 '17-13':
-  title: Enhance global macroeconomic stability, including through policy coordination
-    and policy coherence
+  title: 정책일관성 및 조율을 통하여 글로벌거시경제 안전성 강화
 '17-14':
-  title: Enhance policy coherence for sustainable development
+  title: 지속가능발전을 위한 정책일관성 강화
 '17-15':
-  title: Respect each country’s policy space and leadership to establish and implement
-    policies for poverty eradication and sustainable development
+  title: 빈곤퇴치아 지속가능발전을 위한 정책을 수립하고 이행하는데 있어 각국의 정책적 재량과 리더십 존중
 '17-16':
-  title: Enhance the Global Partnership for Sustainable Development, complemented
-    by multi-stakeholder partnerships that mobilize and share knowledge, expertise,
-    technology and financial resources, to support the achievement of the Sustainable
-    Development Goals in all countries, in particular developing countries
+  title: 모든 국가, 특히 개도국에서 SDGs 달성을 지원하기 위해, 지식·전문성·기술·재원을 동원 공유하는 다양한 이해당사자간 파트너십에 의해 보완되는 지속가능발전을 위한 글로벌 파트너십 강화
 '17-17':
-  title: Encourage and promote effective public, public-private and civil society
-    partnerships, building on the experience and resourcing strategies of partnerships
+  title: 파트너십의 경험과 재원조달 전략에 기초하여 효과저긴 공공, 민관, 시민사회  간 파트너십 권장 및 촉진
 '17-18':
-  title: By 2020, enhance capacity-building support to developing countries, including
-    for least developed countries and small island developing States, to increase
-    significantly the availability of high-quality, timely and reliable data disaggregated
-    by income, gender, age, race, ethnicity, migratory status, disability, geographic
-    location and other characteristics relevant in national contexts
+  title: 2020년까지 고품질의, 시의성 있고 신뢰도 높은 데이터를 소득, 성, 인종, 민족, 이민·이주신분, 장애상태, 지리적 위치, 기타 국가별 상황에 맞는 특성별로 세분화하여 제공할 수 있도록 개발도상국의 역량 구축 지원 강화 
 '17-19':
-  title: By 2030, build on existing initiatives to develop measurements of progress
-    on sustainable development that complement gross domestic product, and support
-    statistical capacity-building in developing countries
+  title: 2030년까지 GDP 보완을 위한 지속가능바전 성과 측정치 개발에 대한 현존 이니셔티브를 기반으로 이를 발전시키고, 개도국의 통계역량구축을 지원
 '17-2':
-  title: Developed countries to implement fully their official development assistance
-    commitments, including the commitment by many developed countries to achieve the
-    target of 0.7 per cent of gross national income for official development assistance
-    (ODA/GNI) to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least
-    developed countries; ODA providers are encouraged to consider setting a target
-    to provide at least 0.20 per cent of ODA/GNI to least developed countries
+  title: 선진국은 개도국에 GNI의 0.7%를, 최빈개도국에 GNI의 0.15-0.20%를 ODA로 제공하는 것을 포함한 ODA 공약달성을 완전히 이행해야 하고, ODA 제공 국가는 적어도 GNI의 0.20%를 최빈개도국에 제공하는 것을 목표로 고려할 것을 권장 
 '17-3':
-  title: Mobilize additional financial resources for developing countries from multiple
-    sources
+  title: 개발도상국을 위해 다양한 출처로부터  추가적인 재원 동원
 '17-4':
-  title: Assist developing countries in attaining long-term debt sustainability through
-    coordinated policies aimed at fostering debt financing, debt relief and debt restructuring,
-    as appropriate, and address the external debt of highly indebted poor countries
-    to reduce debt distress
+  title: 필요한 경우 부채조달, 부채탕감, 부채조정을 목표로 하는 정책조율을 통해 개발도상국이 장기적인 부채 상환능력을 갖출수있도록 지원; 고채무국의 채무부담을 완화하기 위해 외채문제에 대응
 '17-5':
-  title: Adopt and implement investment promotion regimes for least developed countries
+  title: 최빈개도국을 위한 투자촉진계획을 채택하고 이행 
 '17-6':
-  title: Enhance North-South, South-South and triangular regional and international
-    cooperation on and access to science, technology and innovation and enhance knowledge-sharing
-    on mutually agreed terms, including through improved coordination among existing
-    mechanisms, in particular at the United Nations level, and through a global technology
-    facilitation mechanism
+  title: 과학, 기술, 혁신에 관한 북-남, 남-남, 삼각협력 등의 지역 및 국가 간 협력과 접근을 강화; 글로벌 기술촉진 메커니즘 활용 및 특히 UN 차원에서 마련된 기존 메커니즘 간의 조정을 개선하여 상호합의된 조건에 따른 지식공유 확대
 '17-7':
-  title: Promote the development, transfer, dissemination and diffusion of environmentally
-    sound technologies to developing countries on favourable terms, including on concessional
-    and preferential terms, as mutually agreed
+  title: 상호합의에 따라 양허, 특혜 등 유리한 조건으로 개발도상국에 환경적으로 안전한 기술의 개발, 이전, 전파 및 확산을 증진 
 '17-8':
-  title: Fully operationalize the technology bank and science, technology and innovation
-    capacity-building mechanism for least developed countries by 2017 and enhance
-    the use of enabling technology, in particular information and communications technology
+  title: 2017년까지 최빈개도국을 위한 기술은행 및 과학기술혁신 역량구축 메카니즘 운영을 전면 가동하고 정보통신기술(ICT) 위주의 핵심기술 사용을 강화
 '17-9':
-  title: Enhance international support for implementing effective and targeted capacity-building
-    in developing countries to support national plans to implement all the Sustainable
-    Development Goals, including through North-South, South-South and triangular cooperation
+  title: 북남, 남-남, 삼각협력을 통하여, SDGs를 효과적으로 달성하기 위한 국가계획을 지원할 개도국의 효과적, 선별적 역량구축 이행에 대한 국제적 지원을 강화
 '2-1':
-  title: By 2030, end hunger and ensure access by all people, in particular the poor
-    and people in vulnerable situations, including infants, to safe, nutritious and
-    sufficient food all year round
+  title: 2030년까지 기아를 종식시키고 모든 사람, 특히 영·유아를 포함한 빈곤층 및 취약계층이 안전하고 영양가 있으며 충분한 식량에 접근할 수 있도록 보장
 '2-2':
-  title: By 2030, end all forms of malnutrition, including achieving, by 2025, the
-    internationally agreed targets on stunting and wasting in children under 5 years
-    of age, and address the nutritional needs of adolescent girls, pregnant and lactating
-    women and older persons
+  title: 2025년까지 5세 미만의 발육부진 및 쇠약에 관한 국제 목표 달성을 포함하여 2030년까지 모든 형태의 영양 부족을 종식시키고 여성 청소년, 임산부, 수유여성 및 노년층의 영양상태 개선
 '2-3':
-  title: By 2030, double the agricultural productivity and incomes of small-scale
-    food producers, in particular women, indigenous peoples, family farmers, pastoralists
-    and fishers, including through secure and equal access to land, other productive
-    resources and inputs, knowledge, financial services, markets and opportunities
-    for value addition and non-farm employment
+  title: 2030년까지 토지 및 기타 생산자원과 투입요소, 지식, 금융서비스, 시장 및 부가가치 창출과 비농업부문 고용 기회에 대한 안전하고 동등한 접근을 통해 소규모 식량생산자, 특히 여성, 토착민, 가족농, 목축업자 및 어민의 농업 생산성과 소득을 두 배로 증가
 '2-4':
-  title: By 2030, ensure sustainable food production systems and implement resilient
-    agricultural practices that increase productivity and production, that help maintain
-    ecosystems, that strengthen capacity for adaptation to climate change, extreme
-    weather, drought, flooding and other disasters and that progressively improve
-    land and soil quality
+  title: 2030년까지 생산성과 생산량을 증가시키고 생태계 유지에 도움이 되며 기후변화, 기상 이변, 가문, 홍수 및 기타 자연재해데 대한 적응력을 강화하고 토지와 토양의 질을 점진적으로 향상 시킬 수 있는 지속가능한 식량생산체계를 보장하며, 회복력 있는 농업 관행을 이행
 '2-5':
-  title: By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed
-    and domesticated animals and their related wild species, including through soundly
-    managed and diversified seed and plant banks at the national, regional and international
-    levels, and promote access to and fair and equitable sharing of benefits arising
-    from the utilization of genetic resources and associated traditional knowledge,
-    as internationally agreed
+  title: 2020년까지 국가적, 지역적, 국제적 차원에서 건전하게 관리되고 다변화된 종자 및 식물 은행 등을 통해 종자, 재배식물, 가축과 사육동물 및 관련 야생종의 유전적 다양성을 유지하고, 국제적으로 합의된 바와 같이 유전자원과 관련 전통지식의 이용으로부터 발생하는 이익의 공정하고 공평한 분배에 대한 접근을 개선
 2-a:
-  title: Increase investment, including through enhanced international cooperation,
-    in rural infrastructure, agricultural research and extension services, technology
-    development and plant and livestock gene banks in order to enhance agricultural
-    productive capacity in developing countries, in particular least developed countries
+  title: 개발도상국 특히, 최빈개도국의 농업 생산역량 강화를 위해 국제협력 증진을 통해 농촌 지역 사회기반시설, 농업 연구 및 지원 서비스, 기술 개발, 식물 및 가축 유전자은행에 대한 투자 확대
 2-b:
-  title: Correct and prevent trade restrictions and distortions in world agricultural
-    markets, including through the parallel elimination of all forms of agricultural
-    export subsidies and all export measures with equivalent effect, in accordance
-    with the mandate of the Doha Development Round
+  title: 도하개발라운드에 따른 농산품 보조금 철폐를 포함하여 세계농업시장에서의 무역규제 및 왜곡 시정
 2-c:
-  title: Adopt measures to ensure the proper functioning of food commodity markets
-    and their derivatives and facilitate timely access to market information, including
-    on food reserves, in order to help limit extreme food price volatility
+  title: 지나친 식품가격 변동성 제어에 도움이 되도록 식품상품 시장의 정상적인 기능을 위한 조치 채택
 '3-1':
-  title: By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000
-    live births
+  title: 2030년까지  모성사망비율을 10만 명 당 70명미만으로 감소
 '3-2':
-  title: By 2030, end preventable deaths of newborns and children under 5 years of
-    age, with all countries aiming to reduce neonatal mortality to at least as low
-    as 12 per 1,000 live births and under‐5 mortality to at least as low as 25 per
-    1,000 live births
+  title: 2030년까지 신생아와 5세미만의 예방가능한 사망을 종식시켜, 모든 국가의 신생아 사망률을 1000명당 최소 12명 이하,  5세 미만 사망률을 1000명당 최소 25명 이하 목표  
 '3-3':
-  title: By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical
-    diseases and combat hepatitis, water-borne diseases and other communicable diseases
+  title: 2030년까지 후천성면역결핍증(AIDS), 결핵, 말라리아 및  소외열대질환의 확산을  종식시키고, 간염, 수인성 질병 및 기타 전염성 질병 방지
 '3-4':
-  title: By 2030, reduce by one third premature mortality from non-communicable diseases
-    through prevention and treatment and promote mental health and well-being
+  title: 2030년까지 예방과 치료를 통해 비전염성 질병으로 인한 조기 사망을 1/3로 감소시키고 정신건강과 웰빙을 향상 
 '3-5':
-  title: Strengthen the prevention and treatment of substance abuse, including narcotic
-    drug abuse and harmful use of alcohol
+  title: 마약 및 해로운 알코올을 포함하여 약물남용 예방 및 치료 강화
 '3-6':
-  title: By 2020, halve the number of global deaths and injuries from road traffic
-    accidents
+  title: 2020년까지, 도로교통사고로 인한 사망자 및 부상자 수를 절반으로 감소 
 '3-7':
-  title: By 2030, ensure universal access to sexual and reproductive health-care services,
-    including for family planning, information and education, and the integration
-    of reproductive health into national strategies and programmes
+  title: 2030년까지 가족계획, 정보및교육 등을 포함한 성 및 생식보건서비스에 대한 보편적 접근을 보장하고 생식보건을 국가전략과 프로그램에 통합 
 '3-8':
-  title: Achieve universal health coverage, including financial risk protection, access
-    to quality essential health-care services and access to safe, effective, quality
-    and affordable essential medicines and vaccines for all
+  title: 재정 위험 보호, 양질의 필수 보건서비스, 모두에게 안전하고 효과적이며 합리적인 가격의 필수 약품 및 백신에 대한 접근 등을 포함하는 보편적 건강보장 서비스 제공
 '3-9':
-  title: By 2030, substantially reduce the number of deaths and illnesses from hazardous
-    chemicals and air, water and soil pollution and contamination
+  title: 2030년까지 유해화학물질, 대기오염, 수질오염, 토양 오염으로 인한 사망 및 질병 건수를 상당 수준으로 감소
 3-a:
-  title: Strengthen the implementation of the World Health Organization Framework
-    Convention on Tobacco Control in all countries, as appropriate
+  title: WHO 담배규제기본협약 이행 강화
 3-b:
-  title: Support the research and development of vaccines and medicines for the communicable
-    and non‐communicable diseases that primarily affect developing countries, provide
-    access to affordable essential medicines and vaccines, in accordance with the
-    Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right
-    of developing countries to use to the full the provisions in the Agreement on
-    Trade-Related Aspects of Intellectual Property Rights regarding flexibilities
-    to protect public health, and, in particular, provide access to medicines for
-    all
+  title: 개도국에서 주로 발생하는 전염성 및 비전염성 질병에 대한 백신 및 약품 개발과 연구 지원, 저렴한 가격의 필수 의약품 및 백신의 제공, 특히 모두에게 의약품에 대한 접근을 보장 
 3-c:
-  title: Substantially increase health financing and the recruitment, development,
-    training and retention of the health workforce in developing countries, especially
-    in least developed countries and small island developing States
+  title: 최빈개도국 및 개도국에서의 보건인력 양성, 훈련 및 보건 분야 재원을 상당 수준 증가
 3-d:
-  title: Strengthen the capacity of all countries, in particular developing countries,
-    for early warning, risk reduction and management of national and global health
-    risks
+  title: 모든 국가, 특히 개도국의 조기경보, 위험 감소, 국가 및 글로벌 보건리스크 관리 역량 강화
 '4-1':
-  title: By 2030, ensure that all girls and boys complete free, equitable and quality
-    primary and secondary education leading to relevant and effective learning outcomes
+  title: 2030년까지 모든 여아와 남아가 적절하고 효과적인 학습성과를 거둘 수 있도록 공평하고 양질의 무상 초등교육과 중등교육의 이수를 보장
 '4-2':
-  title: By 2030, ensure that all girls and boys have access to quality early childhood
-    development, care and pre‐primary education so that they are ready for primary
-    education
+  title: 2030년까지 모든 여아와 남아가 초등교육을 받을 준비가 되도록 양질의 영유아 발달 교육, 보육 및 취학 전 교육에 대한 접근을 보장
 '4-3':
-  title: By 2030, ensure equal access for all women and men to affordable and quality
-    technical, vocational and tertiary education, including university
+  title: 2030년까지 모든 여성과 남성에게 적정비용의 양질의 기술교육, 직업교육 및 대학을 포함한 고등교육에 대한 평등한 접근을 보장
 '4-4':
-  title: By 2030, substantially increase the number of youth and adults who have relevant
-    skills, including technical and vocational skills, for employment, decent jobs
-    and entrepreneurship
+  title: 2030년까지 전문.직업기술 등 취업, 양질의 일자리, 창업활동을 위해 필요한 적합한 기술을 지닌 청소년과 성인의 수를 실질적으로 증가 
 '4-5':
-  title: By 2030, eliminate gender disparities in education and ensure equal access
-    to all levels of education and vocational training for the vulnerable, including
-    persons with disabilities, indigenous peoples and children in vulnerable situations
+  title: 2030년까지 교육에서의 성차를 해소하고, 장애인, 토착민, 취약상황에 처한 아동을 포함한 취약계층이 모든 수준의 교육과 직업훈련에 평등하게 접근
 '4-6':
-  title: By 2030, ensure that all youth and a substantial proportion of adults, both
-    men and women, achieve literacy and numeracy
+  title: 2030년까지 모든 청소년과 상당수 성인 남녀의 문해력과 수리력 성취를 보장
 '4-7':
-  title: By 2030, ensure that all learners acquire the knowledge and skills needed
-    to promote sustainable development, including, among others, through education
-    for sustainable development and sustainable lifestyles, human rights, gender equality,
-    promotion of a culture of peace and non-violence, global citizenship and appreciation
-    of cultural diversity and of culture’s contribution to sustainable development
+  title: 2030년까지 모든 학습자들이 지속가능발전 및 지속가능생할방식, 인권, 성평등, 평화와 비폭력문화증진, 세계시민의식, 문화다양성 및 지속가능발전을 위한 문화의 기여에 대한 교육을 통해, 지속가능발전을 증진하기 위해 필요한 지식 및 기술 습득을 보장
 4-a:
-  title: Build and upgrade education facilities that are child, disability and gender
-    sensitive and provide safe, non-violent, inclusive and effective learning environments
-    for all
+  title: 아동, 장애인, 성차를 고려한 교육시설을 건립 및 개선하고, 모두를 위한 안전하고 비폭력적이며, 포용적이고 효과적인 학습환경을 제공
 4-b:
-  title: By 2020, substantially expand globally the number of scholarships available
-    to developing countries, in particular least developed countries, small island
-    developing States and African countries, for enrolment in higher education, including
-    vocational training and information and communications technology, technical,
-    engineering and scientific programmes, in developed countries and other developing
-    countries
+  title: 2020년까지 전 세계적으로 개도국, 특히 최빈국, 군소도서개발국, 아프리카 국가나 선진국이나 기타 개발도상국의 직업훈련, ICT, 과학기술 및 공학분야를 포함한 고등교육에 등록하도록 지원하는 장학금을 실질적으로 확대
 4-c:
-  title: By 2030, substantially increase the supply of qualified teachers, including
-    through international cooperation for teacher training in developing countries,
-    especially least developed countries and small island developing States
+  title: 2030년까지 개발도상국, 특히 최빈국 및 군소도서개발국에서 교사훈련을 위한 국제협력을 통해 양성된 교사를 포함하여 자격을 갖춘 교사 공급을 실질적으로 증대
 '5-1':
-  title: End all forms of discrimination against all women and girls everywhere
+  title: 모든 곳에서 모든 여성과 여아에 대한 모든 형태의 차별 종식
 '5-2':
-  title: Eliminate all forms of violence against all women and girls in the public
-    and private spheres, including trafficking and sexual and other types of exploitation
+  title: 인신매매, 성적 착취 및 기타 형태의 착취를 포함하여 공적 및 사적 영역에서 모든 여성과 여아에 대한 모든 형태의 폭력 근절
 '5-3':
-  title: Eliminate all harmful practices, such as child, early and forced marriage
-    and female genital mutilation
+  title: 아동 결혼, 조혼 및 강제결혼, 여성성기절제와 같은 모든 유해한 관습 근절
 '5-4':
-  title: Recognize and value unpaid care and domestic work through the provision of
-    public services, infrastructure and social protection policies and the promotion
-    of shared responsibility within the household and the family as nationally appropriate
+  title: 국가별 상황에 맞는 공공서비스, 사회기반시설 및 사회보호정책의 제공과 가구 및 가족 내 책임부담 촉진을 통해 무보수 가사노동과 돌봄노동을 인지하고 가치를 부여
 '5-5':
-  title: Ensure women’s full and effective participation and equal opportunities for
-    leadership at all levels of decision-making in political, economic and public
-    life
+  title: 정치, 경제, 공공부문에서 모든 단계의 의사결정과정에서 여성의 완전하고 효과적인 참여와 리더십에 대한 평등한 기회를 보장
 '5-6':
-  title: Ensure universal access to sexual and reproductive health and reproductive
-    rights as agreed in accordance with the Programme of Action of the International
-    Conference on Population and Development and the Beijing Platform for Action and
-    the outcome documents of their review conferences
+  title: 국제인구개발회의(ICPD) 행동계획과 북경 행동강령 및 이에 대한 검토회의 결과문서에 따라 모든 이가 성, 생식보건, 재생산권에 대한 보편적인 접근을 보장
 5-a:
-  title: Undertake reforms to give women equal rights to economic resources, as well
-    as access to ownership and control over land and other forms of property, financial
-    services, inheritance and natural resources, in accordance with national laws
+  title: 경제적 자원, 소유권, 토지 및 기타 형태의 부동산, 상속, 천연자원, 금융서비스 등의 평등한 권리를 여성에게 보장하도록 개혁 실시
 5-b:
-  title: Enhance the use of enabling technology, in particular information and communications
-    technology, to promote the empowerment of women
+  title: 여성의 권한 증대를 위해 유용한 기술사용 강화 (특히 ICT)
 5-c:
-  title: Adopt and strengthen sound policies and enforceable legislation for the promotion
-    of gender equality and the empowerment of all women and girls at all levels
+  title: 모든 수준에서 모든 여성과 여아의 권한강화와 성평등 촉진을 위해 명확한 정책과 집행가능한 법을 채택하고 강화
 '6-1':
-  title: By 2030, achieve universal and equitable access to safe and affordable drinking
-    water for all
+  title: 2030년까지 안전한 식수에 대한 보편적 접근성 제공
 '6-2':
-  title: By 2030, achieve access to adequate and equitable sanitation and hygiene
-    for all and end open defecation, paying special attention to the needs of women
-    and girls and those in vulnerable situations
+  title: 각별히 여성 및 소녀의 필요성을 고려하여 2030년까지 충분하고 공평한 위생시설 보장; 노상배변(open defecation) 근절
 '6-3':
-  title: By 2030, improve water quality by reducing pollution, eliminating dumping
-    and minimizing release of hazardous chemicals and materials, halving the proportion
-    of untreated wastewater and substantially increasing recycling and safe reuse
-    globally
+  title: 2030년까지, 오염 감소, 유해 화학물질 투기 근절 및 배출 최소화를 통해 미처리된 하수 비율을 절반으로 줄이고 재활용 및 안전한 재사용을 전 세계적으로 대폭 확대 
 '6-4':
-  title: By 2030, substantially increase water-use efficiency across all sectors and
-    ensure sustainable withdrawals and supply of freshwater to address water scarcity
-    and substantially reduce the number of people suffering from water scarcity
+  title: 2030년까지 전 부문에서의 물 사용 효율을 높이고 공급에 맞는 담수 회수(freshwater withdrawals) 및 공급으로 물 부족에 대응
 '6-5':
-  title: By 2030, implement integrated water resources management at all levels, including
-    through transboundary cooperation as appropriate
+  title: 2030년까지 국경 간 협력을 포함하여 통합된 물 자원 관리 이행
 '6-6':
-  title: By 2020, protect and restore water-related ecosystems, including mountains,
-    forests, wetlands, rivers, aquifers and lakes
+  title: 2020년까지, 산, 산림, 습지, 강, 대수층 및 호수 등 물 관련 생태계를 보호 및 복원
 6-a:
-  title: By 2030, expand international cooperation and capacity-building support to
-    developing countries in water- and sanitation-related activities and programmes,
-    including water harvesting, desalination, water efficiency, wastewater treatment,
-    recycling and reuse technologies
+  title: 물·위생 활동 및 프로그램과 관련하여 2030년까지 개발도상국가에 대한 국제협력 및 역량배양 지원을 확대
 6-b:
-  title: Support and strengthen the participation of local communities in improving
-    water and sanitation management
+  title: 물·위생 관리 개선을 위해 지역사회 참여 지원 및 강화
 '7-1':
-  title: By 2030, ensure universal access to affordable, reliable and modern energy
-    services
+  title: 2030년까지 적절한 가격과 지속가능하며 현대화된 에너지 서비스의 보편적 접근 보장
 '7-2':
-  title: By 2030, increase substantially the share of renewable energy in the global
-    energy mix
+  title: 2030년까지 재생가능에너지 비중을 상당하게 증가
 '7-3':
-  title: By 2030, double the global rate of improvement in energy efficiency
+  title: 2030년까지 에너지 효율성 향상 글로벌 비율을 두 배 증가
 7-a:
-  title: By 2030, enhance international cooperation to facilitate access to clean
-    energy research and technology, including renewable energy, energy efficiency
-    and advanced and cleaner fossil-fuel technology, and promote investment in energy
-    infrastructure and clean energy technology
+  title: 2030년까지 청정에너지 연구개발 이행을 위해 국제협력 강화
 7-b:
-  title: By 2030, expand infrastructure and upgrade technology for supplying modern
-    and sustainable energy services for all in developing countries, in particular
-    least developed countries, small island developing States and landlocked developing
-    countries, in accordance with their respective programmes of support
+  title: 2030년까지 개발도상국에 현대화된 지속 가능한 에너지서비스를 공급하기 위하여 에너지 기반 시설 확장 및 기술 업그레이드
 '8-1':
-  title: Sustain per capita economic growth in accordance with national circumstances
-    and, in particular, at least 7 per cent gross domestic product growth per annum
-    in the least developed countries
+  title: 국가별 상황에 맞게 1인당 경제성장을 유지하고 특히 최빈개도국은 최소한 연간 7% GDP 성장률 유지
 '8-10':
-  title: Strengthen the capacity of domestic financial institutions to encourage and
-    expand access to banking, insurance and financial services for all
+  title: 보험업, 금융업 및 금융지원서비스의 접근가능범위를 확대하기 위해 국가 내 금융 기관의 역량 강화
 '8-2':
-  title: Achieve higher levels of economic productivity through diversification, technological
-    upgrading and innovation, including through a focus on high-value added and labour-intensive
-    sectors
+  title: 노동집약적 산업부문 및 고부가가치 산업에 포커스를 두고 사업 다각화, 기술업그레이드 및 혁신으로 생산성 향상
 '8-3':
-  title: Promote development-oriented policies that support productive activities,
-    decent job creation, entrepreneurship, creativity and innovation, and encourage
-    the formalization and growth of micro-, small- and medium-sized enterprises, including
-    through access to financial services
+  title: 생산적 활동, 일자리 창출, 기업가 활동, 창의성 및 혁신을 지원하는 개발지향형 정책 촉진; 중소기업 육성
 '8-4':
-  title: Improve progressively, through 2030, global resource efficiency in consumption
-    and production and endeavour to decouple economic growth from environmental degradation,
-    in accordance with the 10‐Year Framework of Programmes on Sustainable Consumption
-    and Production, with developed countries taking the lead
+  title: 2030년까지 소비 및 생산에서의 국제적 자원 효율을 점진적으로 개선; 선진국의 주도하에 10년 주기 프로그램을 통하여 경제 성장으로 인한 환경훼손 억제 
 '8-5':
-  title: By 2030, achieve full and productive employment and decent work for all women
-    and men, including for young people and persons with disabilities, and equal pay
-    for work of equal value
+  title: 2030년까지 장애가 있는 젊은 사람을 포함, 모든 남녀의 완전 고용을 달성; 동등한 가치의 업무에 대해 동등한 보수 보장
 '8-6':
-  title: By 2020, substantially reduce the proportion of youth not in employment,
-    education or training
+  title: 2020년까지 고용, 교육 또는 훈련 상태에 있지 않은 청년 비율을 상당 수준으로 감소
 '8-7':
-  title: Take immediate and effective measures to eradicate forced labour, end modern
-    slavery and human trafficking and secure the prohibition and elimination of the
-    worst forms of child labour, including recruitment and use of child soldiers,
-    and by 2025 end child labour in all its forms
+  title: 강제노동 근절, 현대식 노예 및 인신매매 종식, 소년병 동원 및 징집 등 최악의 아동 노동 형태 금지 및 근절. 2025년까지 모든 형태의 아동 노동 근절 
 '8-8':
-  title: Protect labour rights and promote safe and secure working environments for
-    all workers, including migrant workers, in particular women migrants, and those
-    in precarious employment
+  title: 고용이 불안정한 노동자 및 이주노동자(특히 여성)의 노동권 보호 및 안전한 작업환경 촉진
 '8-9':
-  title: By 2030, devise and implement policies to promote sustainable tourism that
-    creates jobs and promotes local culture and products
+  title: 2030년까지 일자리를 창출하고, 지역 문화와 제품들을 증진하는 지속 가능 관광 촉진을 위한 정책들의 설계 및 시행
 8-a:
-  title: Increase Aid for Trade support for developing countries, in particular least
-    developed countries, including through the Enhanced Integrated Framework for Trade-related
-    Technical Assistance to Least Developed Countries
+  title: 개발도상국, 특히 최빈개도국에 대한 무역원조의 증가 (최빈개도국을 위한 무역관계 기술지원을 위한 강화된 통합프레임하에서 이루어지는 원조를 포함)
 8-b:
-  title: By 2020, develop and operationalize a global strategy for youth employment
-    and implement the Global Jobs Pact of the International Labour Organization
+  title: 2020년까지 청년실업에 대한 글로벌 전략 수립 및 운영; 국제노동기구의 ILO Global Jobs Pact 이행
 '9-1':
-  title: Develop quality, reliable, sustainable and resilient infrastructure, including
-    regional and transborder infrastructure, to support economic development and human
-    well-being, with a focus on affordable and equitable access for all
+  title: 경제발전 및 인간의 웰빙을 위한 고품질, 신뢰성 높은, 지속가능한 탄력적 기반시설 구축
 '9-2':
-  title: Promote inclusive and sustainable industrialization and, by 2030, significantly
-    raise industry’s share of employment and gross domestic product, in line with
-    national circumstances, and double its share in least developed countries
+  title: 포괄적이고 지속가능한 산업화 촉진; 2030년까지 산업부문의 고용률을 상당 수준으로 증가(최빈개도국의 경우 2배로 증가)
 '9-3':
-  title: Increase the access of small-scale industrial and other enterprises, in particular
-    in developing countries, to financial services, including affordable credit, and
-    their integration into value chains and markets
+  title: 소규모 산업체의 가치사슬 및 시장으로의 통합 및 금융서비스 접근가능성 강화(특히 개발도상국)
 '9-4':
-  title: By 2030, upgrade infrastructure and retrofit industries to make them sustainable,
-    with increased resource-use efficiency and greater adoption of clean and environmentally
-    sound technologies and industrial processes, with all countries taking action
-    in accordance with their respective capabilities
+  title: 자원사용 효율 제고와 청정/환경 친화 기술 및 산업공정의 도입을 통해 2030년까지 기반시설과 낙후된 산업시설을 지속가능한 환경으로 개선 및 개조하고 모든 국가들은 각자의 역량에 따라 이를 이행함
 '9-5':
-  title: Enhance scientific research, upgrade the technological capabilities of industrial
-    sectors in all countries, in particular developing countries, including, by 2030,
-    encouraging innovation and substantially increasing the number of research and
-    development workers per 1 million people and public and private research and development
-    spending
+  title: 2030년까지, 인구 백만 명 당 연구 개발 종사자의 수와 공공/민간 연구 개발 지출 대폭 증가 및 혁신 장려 등을 통해, 모든 국가, 특히 개발도상국의 과학 연구 강화, 산업 부문의 기술 역량 향상
 9-a:
-  title: Facilitate sustainable and resilient infrastructure development in developing
-    countries through enhanced financial, technological and technical support to African
-    countries, least developed countries, landlocked developing countries and small
-    island developing States
+  title: 아프리카 국가들, 최빈개도국들, 소규모 도서 개발도상국에 대한 강화된 금융, 기술, 전문적 지원을 통해, 개발도상국들에서 지속 가능하고, 회복탄력성을 갖춘 인프라 개발 촉진
 9-b:
-  title: Support domestic technology development, research and innovation in developing
-    countries, including by ensuring a conducive policy environment for, inter alia,
-    industrial diversification and value addition to commodities
+  title: 산업 다각화, 상품가치를 부가시키는 산업 환경 정책을 보장하여 개발도상국가의 국내 기술개발, 연구 및 혁신이 이루어지도록 지원
 9-c:
-  title: Significantly increase access to information and communications technology
-    and strive to provide universal and affordable access to the Internet in least
-    developed countries by 2020
+  title: ICT 접근성을 상당 수준으로 증가시키고, 2020년까지 최빈개도국의 보편적인 인터넷 접근성(access) 달성을 위해 노력

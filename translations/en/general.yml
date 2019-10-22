@@ -1,12 +1,12 @@
-indicator: Indicator
-indicators: Indicators
-goal: Goal
-goals: Goals
-sdg: Sustainable Development Goals
+indicator: 지표
+indicators: 지표
+goal: 목표
+goals: 목표
+sdg: 지속가능발전목표
 home: Home
-loading: Loading search results
-opens_new_window: opens in a new window
-target: Target
-targets: Targets
+loading: 검색 결과를 불러오고 있습니다.
+opens_new_window: 새 창에서 열기
+target: 세부목표
+targets: 세부목표
 twitter: Twitter
 facebook: Facebook
