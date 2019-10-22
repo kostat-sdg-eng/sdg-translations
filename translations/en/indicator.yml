@@ -1,6 +1,6 @@
-select_all: 모두 선택
-clear_all: 모두 취소
-clear_selections: 초기화
+select_all: Select all
+clear_all: Clear all
+clear_selections: Clear selections
 variable_hint: Available when '%field' is selected
 no_data_hint: No options available because of filters above
 download_headline: Download Headline CSV
@@ -13,27 +13,37 @@ download_csv: Download CSV
 download_csv_title: Download as CSV
 download_chart_image: Download Chart Image
 download_chart_image_title: Download chart as image
-source: 출처
-sources: 출처
-geographical_area: 지역
-unit_of_measurement: 단위
-footnote: 주석
+source: Source
+sources: Sources
+geographical_area: Geographical Area
+unit_of_measurement: Unit of Measurement
+footnote: Footnote
 units_type: Units type
-dataset_size_warning: 너무 많은 항목이 선택되었습니다.
-  선택을 취소해 주시기 바랍니다.
+dataset_size_warning: There are too many datasets to show on the chart. Not all
+  will be shown until you remove some selections.
 view_indicator_list: View this goal's indicator list
-sub_categories: 세부 항목
-series_help: 상세한 정보를 원하시는 세부 항목을 아래에서 선택해 주시기 바랍니다.
-legend_help: 범례의 개별 항목을 클릭하면 해당 항목을 그래프에서 삭제하실 수 있습니다.
-chart: 그래프
-table: 표
-map: 지도
+sub_categories: Sub-categories
+series_help: Choose categories from the dropdowns below to see different
+  breakdowns of the data. Some will not be available until a higher level is
+    chosen.
+legend_help: Click on the legend to remove individual lines from the chart.
+chart: Chart
+table: Table
+map: Map
 loading_map: Loading map
-national_metadata: 통계설명자료
-national_metadata_blurb: 지표에 대한 설명자료를 보실 수 있습니다.
-global_metadata: 글로벌 메타데이터
-global_metadata_blurb: UN에서 제공하는 <a href="https://unstats.un.org/sdgs/metadata/">글로벌 메타데이터</a>
-  를 보실 수 있습니다.
-edit: 자료 수정
-edit_data: 데이터 수정
-edit_metadata: 메타데이터 수정
+national_metadata: National Metadata
+national_metadata_blurb: This table provides metadata for the actual indicator
+  available from %country_name statistics closest to the corresponding
+    global SDG indicator. Please note that even when the global SDG indicator is
+      fully available from %country_adjective statistics, this table
+        should be consulted for information on national methodology and other
+          %country_adjective-specific metadata information.
+global_metadata: Global Metadata
+global_metadata_blurb: This table provides information on metadata for SDG
+  indicators as defined by the UN Statistical Commission.
+    <a href="https://unstats.un.org/sdgs/metadata/">Complete global metadata</a>
+      is provided by the UN Statistics Division.
+edit: Edit
+edit_data: Edit Data
+edit_metadata: Edit Metadata
+
