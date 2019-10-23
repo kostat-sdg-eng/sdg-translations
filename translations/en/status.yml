@@ -1,7 +1,7 @@
-reporting_status: 지표 현황
-overall_reporting_status: 지표 작성 현황
-reported_online: 이용가능
+reporting_status: Reporting Status
+overall_reporting_status: Overall Reporting Status
+reported_online: Reported online
 statistics_in_progress: Statistics in progress
-exploring_data_sources: 작업중
+exploring_data_sources: Exploring data sources
 not_applicable: Not applicable
-status_by_goal: 목표별 현황
+status_by_goal: Status by goal
