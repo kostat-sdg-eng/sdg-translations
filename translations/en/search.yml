@@ -1,6 +1,6 @@
-search: Search
-indicator_search: Indicator search
-search_results_for: Search results for
+search: 검색
+indicator_search: 검색어를 입력해 주시기 바랍니다.
+search_results_for: 검색 결과
 found_in: found in
-keywords: Keywords
-no_results: No results
+keywords: 키워드
+no_results: 검색 결과가 없습니다.
