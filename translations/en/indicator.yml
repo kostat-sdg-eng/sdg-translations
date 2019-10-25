@@ -1,40 +1,38 @@
-select_all: Select all
-clear_all: Clear all
-clear_selections: Clear selections
-variable_hint: Available when '%field' is selected
+select_all: 모두 선택
+clear_all: 모두 취소
+clear_selections: 초기화
+variable_hint: '%field' 항목을 먼저 선택해 주시기 바랍니다.
 no_data_hint: No options available because of filters above
 download_headline: Download Headline CSV
 download_headline_title: Download headline data as CSV
-download_source: Download Source CSV
-download_source_title: Download source data as CSV
-download_chart: Download Chart CSV
-download_table: Download Table CSV
-download_csv: Download CSV
-download_csv_title: Download as CSV
-download_chart_image: Download Chart Image
-download_chart_image_title: Download chart as image
-source: Source
-sources: Sources
-geographical_area: Geographical Area
-unit_of_measurement: Unit of Measurement
-footnote: Footnote
+download_source: 출처 CSV 내려받기
+download_source_title: 출처 CSV 내려받기
+download_chart: 그래프 CSV 내려받기
+download_table: 표 CSV 내려받기
+download_csv: CSV 내려받기
+download_csv_title: CSV 내려받기
+download_chart_image: 그래프 이미지 내려받기
+download_chart_image_title: 그래프 이미지 내려받기
+source: 출처
+sources: 출처
+geographical_area: 지역
+unit_of_measurement: 단위
+footnote: 주석
 units_type: Units type
-dataset_size_warning: There are too many datasets to show on the chart. Not all
-  will be shown until you remove some selections.
+dataset_size_warning: 너무 많은 항목이 선택되었습니다.
+  선택을 취소해 주시기 바랍니다.
 view_indicator_list: View this goal's indicator list
-sub_categories: Sub-categories
-series_help: Choose categories from the dropdowns below to see different
-  breakdowns of the data. Some will not be available until a higher level is
-  chosen.
-legend_help: Click on the legend to remove individual lines from the chart.
-chart: Chart
-table: Table
-map: Map
-loading_map: Loading map
-national_metadata: National Metadata
+sub_categories: 세부 항목
+series_help: 상세한 정보를 원하시는 세부 항목을 아래에서 선택해 주시기 바랍니다.
+legend_help: 범례의 개별 항목을 클릭하면 해당 항목을 그래프에서 삭제하실 수 있습니다.
+chart: 그래프
+table: 표
+map: 지도
+loading_map: 지도를 불어오고 있습니다.
+national_metadata: 통계 설명자료
 national_metadata_blurb: 
-global_metadata: Global Metadata
+global_metadata: 글로벌 메타데이터
 global_metadata_blurb: 
-edit: Edit
-edit_data: Edit Data
-edit_metadata: Edit Metadata
+edit: 자료 수정
+edit_data: 데이터 수정
+edit_metadata: 메타데이터 수정
