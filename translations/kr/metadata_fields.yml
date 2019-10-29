@@ -1,0 +1,78 @@
+comments_limitations: 비고
+computation_calculations: 계산방법
+computation_definitions: 정의
+computation_units: 단위
+goal_meta_link: UN 메타데이터
+indicator: 지표 번호
+indicator_definition: 지표 상세 설명
+indicator_name: 지표명
+indicator_sort_order: 지표 정렬 번호
+national_data_update_url: 데이터 갱신 이력
+national_geographical_coverage: 지역적 범위
+national_indicator_available: 지표 가용성
+national_indicator_description: 지표 상세 설명
+national_metadata_update_url: 메타데이터 갱신 이력
+source_contact_1: 연락처
+source_contact_2: 연락처
+source_contact_3: 연락처
+source_contact_4: 연락처
+source_contact_5: 연락처
+source_contact_6: 연락처
+source_earliest_available_1: 최초 공표
+source_earliest_available_2: 최초 공표
+source_earliest_available_3: 최초 공표
+source_earliest_available_4: 최초 공표
+source_earliest_available_5: 최초 공표
+source_earliest_available_6: 최초 공표
+source_geographical_coverage_1: 지역적 범위
+source_geographical_coverage_2: 지역적 범위
+source_geographical_coverage_3: 지역적 범위
+source_geographical_coverage_4: 지역적 범위
+source_geographical_coverage_5: 지역적 범위
+source_geographical_coverage_6: 지역적 범위
+source_next_release_1: 다음 공표
+source_next_release_2: 다음 공표
+source_next_release_3: 다음 공표
+source_next_release_4: 다음 공표
+source_next_release_5: 다음 공표
+source_next_release_6: 다음 공표
+source_organisation_1: 작성기관
+source_organisation_2: 작성기관
+source_organisation_3: 작성기관
+source_organisation_4: 작성기관
+source_organisation_5: 작성기관
+source_organisation_6: 작성기관
+source_other_info_1: 비고
+source_other_info_2: 비고
+source_other_info_3: 비고
+source_other_info_4: 비고
+source_other_info_5: 비고
+source_other_info_6: 비고
+source_periodicity_1: 작성주기
+source_periodicity_2: 작성주기
+source_periodicity_3: 작성주기
+source_periodicity_4: 작성주기
+source_periodicity_5: 작성주기
+source_periodicity_6: 작성주기
+source_release_date_1: 공표일
+source_release_date_2: 공표일
+source_release_date_3: 공표일
+source_release_date_4: 공표일
+source_release_date_5: 공표일
+source_release_date_6: 공표일
+source_statistical_classification_1: 통계분류
+source_statistical_classification_2: 통계분류
+source_statistical_classification_3: 통계분류
+source_statistical_classification_4: 통계분류
+source_statistical_classification_5: 통계분류
+source_statistical_classification_6: 통계분류
+source_url_1: 출처 바로가기
+source_url_2: 출처 바로가기
+source_url_3: 출처 바로가기
+source_url_4: 출처 바로가기
+source_url_5: 출처 바로가기
+source_url_6: 출처 바로가기
+target: 세부목표명
+target_id: 세부목표 번호
+un_custodian_agency: 소관 국제기구
+un_designated_tier: 티어(Tier)
