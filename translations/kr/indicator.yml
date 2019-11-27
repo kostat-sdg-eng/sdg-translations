@@ -5,8 +5,8 @@ variable_hint: 먼저 '%field' 항목을 선택해 주시기 바랍니다.
 no_data_hint: No options available because of filters above
 download_headline: Download Headline CSV
 download_headline_title: Download headline data as CSV
-download_source: 출처 CSV 내려받기
-download_source_title: 출처 CSV 내려받기
+download_source: 원본 CSV 내려받기
+download_source_title: 원본 CSV 내려받기
 download_chart: 그래프 CSV 내려받기
 download_table: 표 CSV 내려받기
 download_csv: CSV 내려받기
