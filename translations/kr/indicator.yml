@@ -18,7 +18,7 @@ sources: 출처 정보
 geographical_area: 지역
 unit_of_measurement: 단위
 footnote: 주석
-units_type: Units type
+units_type: 구분
 dataset_size_warning: 너무 많은 항목이 선택되었습니다.
   선택을 취소해 주시기 바랍니다.
 view_indicator_list: View this goal's indicator list
