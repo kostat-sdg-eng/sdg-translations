@@ -1,9 +1,9 @@
 skip_link: Skip to main content
-alpha: Alpha
-disclaimer: This is a development website. We welcome your
-  <a href="mailto:%email_address">feedback</a>.
+alpha: Alpha version
+disclaimer: 현재 개발중인 웹사이트 입니다. 문의사항은
+  <a href="mailto:%email_address">이메일</a> 부탁 드립니다. 감사합니다.
 tag_line: 17 Goals to Transform our World
-high_contrast: ABC
-default_contrast: ABC
+high_contrast: 고대비
+default_contrast: 원래대로
 enable_high_contrast: 고대비 가능
 disable_high_contrast: 고대비 불가
