@@ -36,6 +36,12 @@ source_next_release_3: 다음 공표
 source_next_release_4: 다음 공표
 source_next_release_5: 다음 공표
 source_next_release_6: 다음 공표
+source_report_name_1: 통계명
+source_report_name_2: 통계명
+source_report_name_3: 통계명
+source_report_name_4: 통계명
+source_report_name_5: 통계명
+source_report_name_6: 통계명
 source_organisation_1: 작성기관
 source_organisation_2: 작성기관
 source_organisation_3: 작성기관
@@ -76,9 +82,3 @@ target: 세부목표명
 target_id: 세부목표 번호
 un_custodian_agency: 소관 국제기구
 un_designated_tier: 티어(Tier)
-source_report_name_1: 통계명
-source_report_name_2: 통계명
-source_report_name_3: 통계명
-source_report_name_4: 통계명
-source_report_name_5: 통계명
-source_report_name_6: 통계명
