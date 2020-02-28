@@ -72,6 +72,12 @@ source_url_3: Link to data source
 source_url_4: Link to data source
 source_url_5: Link to data source
 source_url_6: Link to data source
+source_report_name_1: report
+source_report_name_2: report
+source_report_name_3: report
+source_report_name_4: report
+source_report_name_5: report
+source_report_name_6: report
 target: Target name
 target_id: Target number
 un_custodian_agency: UN custodian agency

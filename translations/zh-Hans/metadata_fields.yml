@@ -72,6 +72,12 @@ source_url_3: 连接到数据源
 source_url_4: 连接到数据源
 source_url_5: 连接到数据源
 source_url_6: 连接到数据源
+source_report_name_1: report
+source_report_name_2: report
+source_report_name_3: report
+source_report_name_4: report
+source_report_name_5: report
+source_report_name_6: report
 target: 目标名称
 target_id: 目标数字
 un_custodian_agency: 联合国托管机构
