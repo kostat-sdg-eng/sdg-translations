@@ -2,7 +2,7 @@ comments_limitations: 비고
 computation_calculations: 계산방법
 computation_definitions: 정의
 computation_units: 단위
-goal_meta_link: UN 메타데이터
+goal_meta_link: 글로벌 메타데이터
 indicator: 지표 번호
 indicator_definition: 지표 상세 설명
 indicator_name: 지표명
@@ -72,7 +72,7 @@ source_statistical_classification_3: 통계분류
 source_statistical_classification_4: 통계분류
 source_statistical_classification_5: 통계분류
 source_statistical_classification_6: 통계분류
-source_url_1: 출처 바로가기
+source_url_1: 국내 메타데이터
 source_url_2: 출처 바로가기
 source_url_3: 출처 바로가기
 source_url_4: 출처 바로가기
