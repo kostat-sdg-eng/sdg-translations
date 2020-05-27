@@ -3,6 +3,7 @@ computation_calculations: 计算
 computation_definitions: 定义
 computation_units: 计量单位
 goal_meta_link: 连接到联合国元数据
+goal_meta_local_link: 
 indicator: 指标数字
 indicator_definition: 全球指标描述
 indicator_name: 指标名称

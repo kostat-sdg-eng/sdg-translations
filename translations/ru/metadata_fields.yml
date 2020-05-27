@@ -3,6 +3,7 @@ computation_calculations: Расчёты
 computation_definitions: Определения
 computation_units: Единица измерения
 goal_meta_link: Ссылка на метаданные ООН
+goal_meta_local_link: 
 indicator: Номер показателя
 indicator_definition: Описание глобального показателя
 indicator_name: Название показателя

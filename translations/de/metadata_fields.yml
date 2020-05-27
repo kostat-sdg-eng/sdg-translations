@@ -3,6 +3,7 @@ computation_calculations: Methodik
 computation_definitions: Definitionen
 computation_units: Einheit
 goal_meta_link: Link zu den globalen Metadaten
+goal_meta_local_link: 
 indicator: Indikatorennummerierung
 indicator_definition: Globale Indikatorenbeschreibung
 indicator_name: Indikatorenbezeichnung

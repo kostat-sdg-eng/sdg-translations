@@ -3,6 +3,7 @@ computation_calculations: Calculs
 computation_definitions: Définitions
 computation_units: Unité de mesure
 goal_meta_link: Lien vers les métadonnées UN
+goal_meta_local_link: 
 indicator: Numéro de l&#39;indicateur
 indicator_definition: Description de l&#39;indicateur global
 indicator_name: Nom de l&#39;indicateur

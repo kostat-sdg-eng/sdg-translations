@@ -3,6 +3,7 @@ computation_calculations: 'Հաշվարկներ '
 computation_definitions: 'Սահմանումներ '
 computation_units: 'Չափման միավորը '
 goal_meta_link: Հղում ՄԱԿ-ի մետատվյալների
+goal_meta_local_link:
 indicator: 'Ցուցանիշի համարը '
 indicator_definition: 'Գլոբալ ցուցանիշի նկարագրությունը '
 indicator_name: 'Ցուցանիշի անվանումը '

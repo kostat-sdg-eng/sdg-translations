@@ -3,6 +3,7 @@ computation_calculations: عمليات حسابية
 computation_definitions: تعريفات
 computation_units: وحدة قياس
 goal_meta_link: رابط الى البيانات الوصفية للامم المتحدة
+goal_meta_local_link:
 indicator: رقم المؤشر
 indicator_definition: وصف المؤشر العالمي
 indicator_name: اسم المؤشر
