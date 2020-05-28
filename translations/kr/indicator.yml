@@ -22,9 +22,8 @@ units_type: 구분
 dataset_size_warning: 너무 많은 항목이 선택되었습니다.
   선택을 취소해 주시기 바랍니다.
 view_indicator_list: View this goal's indicator list
-sub_categories: 세부 항목
-series_help: 상세한 정보를 원하시는 세부 항목을 아래에서
-  선택해 주시기 바랍니다.
+sub_categories: 데이터 세분화
+series_help: 성, 연령 등에 따른 세분화된 값을 보려면 해당되는 항목을 선택해 주십시오.
 legend_help: 범례의 개별 항목을 클릭하면 해당 항목을
   그래프에서 삭제하실 수 있습니다.
 chart: 그래프
