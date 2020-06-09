@@ -1,25 +1,4 @@
 ﻿key,en,ar
-menu:about,About SDGs,عن
-menu:contact_us,Contact us,اتصل بنا
-menu:cookies,Cookies,ملفات تعريف الارتباط
-menu:faq,FAQ,أسئلة شائعة
-menu:guidance,Guidance,توجيه
-menu:menu,Menu,قائمة
-menu:publications,Publications,منشورات
-menu:reporting_status,Data availability,حالة التقارير
-menu:updates,Updates,
-general:facebook,Facebook,فيسبوك
-general:goal,Goal,هدف
-general:goals,Progress,اهداف
-general:home,Home,الصفحة الرئيسية  (Home page)
-general:indicator,Indicator,مؤشر
-general:indicators,Indicators,مؤشرات
-general:loading,Loading search results,تحميل نتائج البحث
-general:opens_new_window,opens in a new window,تنفتح في نافذة جديدة
-general:sdg,Sustainable Development Goals,اهداف التنمية المستدامة
-general:target,Target,استهداف
-general:targets,Targets,أهداف
-general:twitter,Twitter,تويتر
 header:alpha,Alpha,ألفا
 header:default_contrast,ABC,النقيض الافتراضي
 header:disable_high_contrast,Disable high contrast,تعطيل التباين العالي
@@ -28,9 +7,85 @@ header:enable_high_contrast,Enable high contrast,تمكين التباين ال�
 header:high_contrast,ABC,تباين عالي
 header:skip_link,Skip to main content,انتقل الى المحتويات الرئيسية
 header:tag_line,17 Goals to Transform our World,17 اهداف لتحويل عالمنا
-post:posts_by_category,Posts by Category,المنشورات حسب الفئة
-post:view_all_in_category,View all posts in the %category_name category,عرض كل المنشورات في فئة %category_name
-global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)",نسبة السكان الذين يعيشون دون خط الفقر الدولي، بحسب الجنس، والعمر، والوضع الوظيفي، والموقع الجغرافي (حضري/ريفي)
+metadata_fields:comments_limitations,Other information,معلومات اخرى
+metadata_fields:computation_calculations,Calculations,عمليات حسابية
+metadata_fields:computation_definitions,Definitions,تعريفات
+metadata_fields:computation_units,Unit of measurement,وحدة قياس
+metadata_fields:goal_meta_link,Link to UN metadata,رابط الى البيانات الوصفية للامم المتحدة
+metadata_fields:indicator,Indicator number,رقم المؤشر
+metadata_fields:indicator_definition,Global indicator description,وصف المؤشر العالمي
+metadata_fields:indicator_name,Indicator name,اسم المؤشر
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),ترتيب عرض المؤشر (داخل صفحة الهدف)
+metadata_fields:national_data_update_url,Data last updated,آخر تحديث للبيانات
+metadata_fields:national_geographical_coverage,Geographical coverage,تغطية جغرافية
+metadata_fields:national_indicator_available,Indicator available,مؤشر متاح
+metadata_fields:national_indicator_description,Indicator description,وصف المؤشر
+metadata_fields:national_metadata_update_url,Metadata last updated,آخر تحديث للبيانات الوصفية
+metadata_fields:source_contact_1,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_2,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_3,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_4,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_5,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_6,Contact details,تفاصيل الاتصال
+metadata_fields:source_earliest_available_1,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_2,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_3,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_4,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_5,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_6,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_geographical_coverage_1,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_2,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_3,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_4,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_5,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_6,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_next_release_1,Next release,الاصدار التالي
+metadata_fields:source_next_release_2,Next release,الاصدار التالي
+metadata_fields:source_next_release_3,Next release,الاصدار التالي
+metadata_fields:source_next_release_4,Next release,الاصدار التالي
+metadata_fields:source_next_release_5,Next release,الاصدار التالي
+metadata_fields:source_next_release_6,Next release,الاصدار التالي
+metadata_fields:source_organisation_1,Organisation,منظمة
+metadata_fields:source_organisation_2,Organisation,منظمة
+metadata_fields:source_organisation_3,Organisation,منظمة
+metadata_fields:source_organisation_4,Organisation,منظمة
+metadata_fields:source_organisation_5,Organisation,منظمة
+metadata_fields:source_organisation_6,Organisation,منظمة
+metadata_fields:source_other_info_1,Other information,معلومات اخرى
+metadata_fields:source_other_info_2,Other information,معلومات اخرى
+metadata_fields:source_other_info_3,Other information,معلومات اخرى
+metadata_fields:source_other_info_4,Other information,معلومات اخرى
+metadata_fields:source_other_info_5,Other information,معلومات اخرى
+metadata_fields:source_other_info_6,Other information,معلومات اخرى
+metadata_fields:source_periodicity_1,Periodicity,دورية
+metadata_fields:source_periodicity_2,Periodicity,دورية
+metadata_fields:source_periodicity_3,Periodicity,دورية
+metadata_fields:source_periodicity_4,Periodicity,دورية
+metadata_fields:source_periodicity_5,Periodicity,دورية
+metadata_fields:source_periodicity_6,Periodicity,دورية
+metadata_fields:source_release_date_1,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_2,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_3,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_4,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_5,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_6,Release date,تاريخ الاصدار
+metadata_fields:source_statistical_classification_1,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_2,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_3,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_4,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_5,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_6,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_url_1,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_2,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_3,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_4,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_5,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_6,Link to data source,رابط الى مصدر البيانات
+metadata_fields:target,Target name,اسم الهدف
+metadata_fields:target_id,Target number,رقم الهدف
+metadata_fields:un_custodian_agency,UN custodian agency,وكالة الوصاية للأم المتحدة
+metadata_fields:un_designated_tier,UN designated tier,الطبقة المعينة من الأمم المتحدة
+global_indicators:1-1-1-title,"Proportion of the population living below the international poverty line by sex, age, employment status and geographical location (urban/rural)",نسبة السكان الذين يعيشون دون خط الفقر الدولي، بحسب الجنس، والعمر، والوضع الوظيفي، والموقع الجغرافي (حضري/ريفي)
 global_indicators:1-2-1-title,"Proportion of population living below the national poverty line, by sex and age",نسبة السكان الذين يعيشون دون خط الفقر الوطني، بحسب الجنس والعمر 
 global_indicators:1-2-2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",نسبة الرجال والنساء والأطفال من جميع الاعمار الذين يعانون الفقر بجميع ابعاده وفقا للتعريفات الوطنية
 global_indicators:1-3-1-title,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",نسبة السكان الذين تشملهم حدود دنيا/نظم للحماية الاجتماعية، بحسب الجنس، وبحسب الفئات السكانية، كالأطفال، والعاطلين عن العمل، والمسنين، والأشخاص ذوي الإعاقة، والحوامل، والأطفال حديثي الولادة، وضحايا إصابات العمل، والفقراء، والضعفاء
@@ -40,10 +95,10 @@ global_indicators:1-5-1-title,"Number of deaths, missing persons and directly af
 global_indicators:1-5-2-title,Direct economic loss attributed to disasters in relation to global gross domestic product (GDP),الخسائر الاقتصادية التي تعزى مباشرة إلى الكوارث مقابل الناتج المحلي الإجمالي العالمي
 global_indicators:1-5-3-title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,عدد البلدان التي تعتمد وتنفذ استراتيجيات وطنية للحد من مخاطر الكوارث تمشيا مع إطار سنداي للحد من مخاطر الكوارث للفترة 2015-2030
 global_indicators:1-5-4-title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies, نسبة الحكومات المحلية التي تعتمد وتنفذ استراتيجيات مع الاستراتيجيات الوطنية محلية للحد من مخاطر الكوارث تمشيا للحد من مخاطر الكوارث
-global_indicators:1-a-1-title,Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes,نسبة الموارد المولدة محليا التي تخصصها الحكومة مباشرة لبرامج الحد من الفقر
+global_indicators:1-a-1-title,Total official development assistance(ODA) grants from all donors that focus on poverty reduction as a share of the recipient country's gross national income,نسبة الموارد المولدة محليا التي تخصصها الحكومة مباشرة لبرامج الحد من الفقر
 global_indicators:1-a-2-title,"Proportion of total government spending on essential services (education, health and social protection)",نسبة الإنفاق الحكومي على الخدمات الاساسية (التعليم والصحة والضمان الاجتماعي)
 global_indicators:1-a-3-title,Sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a proportion of GDP,المجموع الإجمالي للمنح والتدفقات الوافدة التي لا تستتبع اقتراض ديون، والتي تخصص مباشرة لبرامج الحد من الفقر محسوبا كنسبة من الناتج المحلي الإجمال
-global_indicators:1-b-1-title,"Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups",نسبة الإنفاق الحكومي المتكرر والرأسمالي المخصص للقطعات التى تفيد المرأة والفقراء والفئات الضعيفة على نحو غير متناسب
+global_indicators:1-b-1-title,Pro-poor public social spending,نسبة الإنفاق الحكومي المتكرر والرأسمالي المخصص للقطعات التى تفيد المرأة والفقراء والفئات الضعيفة على نحو غير متناسب
 global_indicators:10-1-1-title,Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population,معدلات نمو نصيب الفرد من إنفاق الأسر المعيشية أو إيراداتها ضمن أدنى 40 في المائة من السكان ومجموع السكان
 global_indicators:10-2-1-title,"Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",نسبة السكان الذين يعيشون دون 50 في المائة من متوسط الدخل، بحسب الجنس والعمر والأشخاص ذوي الإعاقة
 global_indicators:10-3-1-title,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,نسبة السكان الذين أبلغوا عن تعرضهم شخصيا لممارسات تمييزية أو تحرش خلال الاثني عشر شهرا السابقة لأسباب يحظر القانون الدولي لحقوق الإنسان التمييز على أساسها
@@ -167,11 +222,12 @@ global_indicators:2-1-1-title,Prevalence of undernourishment,معدل انتشا
 global_indicators:2-1-2-title,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",معدل انتشار انعدام الأمن الغذائي المتوسـط أو الشـديد وسط السكان، استنادا إلى مقياس المعاناة من انعدام الأمن الغذائي
 global_indicators:2-2-1-title,Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age,معدل انتشار توقّف النمو (الطول بالنسبة للعمر <-2 نقطة من الانحراف المعياري عن متوسط معايير نمو الطفل لمنظمة الصحة العالمية) بين الأطفال دون سن الخامسة
 global_indicators:2-2-2-title,"Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",معدل انتشار ســوء التغذية (الوزن بالنســبة للطول > 2+ أو < 2 -نقطة من الانحراف المعياري عن متوسط معايير نمو الطفل لمنظمة الصــحة العالمية) بين الأطفال دون سـن الخامسة، مصنفين حسب النوع (الهزال وزيادة الوزن)
+global_indicators:2-2-3-title,"Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)","Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
 global_indicators:2-3-1-title,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,حجم الإنتاج لكل وحـدة عمـل حسـب فئـات حجم المؤسسة الزراعية/الرعوية/الحرجية
 global_indicators:2-3-2-title,"Average income of small-scale food producers, by sex and indigenous status",متوسـط دخل صغار منتجي الأغذية، بحسـب الجنس والوضع من حيث الانتماء إلى الشعوب الأصلية
 global_indicators:2-4-1-title,Proportion of agricultural area under productive and sustainable agriculture,نسبة المساحة الزراعية المخصصة للزراعة المنتجة والمستدامة
 global_indicators:2-5-1-title,Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,عـدد الموارد الجينية النباتيـة والحيوانية للأغـذية والزراعة المودعة في مرافق للحفظ على المدى المتوسط أو الطويل 
-global_indicators:2-5-2-title,"Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction", نسـبة السـلالات المحلية التي تصـنف على أنها معرضة للخطر، أو غير معرضـة للخطر، أو تقف عند مسـتوى غير معروف لخطر انقراضها
+global_indicators:2-5-2-title,Proportion of local breeds classified as being at risk of extinction, نسـبة السـلالات المحلية التي تصـنف على أنها معرضة للخطر، أو غير معرضـة للخطر، أو تقف عند مسـتوى غير معروف لخطر انقراضها
 global_indicators:2-a-1-title,The agriculture orientation index for government expenditures,مؤشر التوجه في المجال الزراعي للنفقات الحكومية
 global_indicators:2-a-2-title,Total official flows (official development assistance plus other official flows) to the agriculture sector,مجموع التدفقات الرسمية (المسـاعدة الإنمائية الرسمية مضـافا إليها تدفقات رسمية أخرى) إلى القطاع الزراعي
 global_indicators:2-b-1-title,Agricultural export subsidies,
@@ -189,11 +245,11 @@ global_indicators:3-3-5-title,Number of people requiring interventions against n
 global_indicators:3-4-1-title,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",معدل الوفيات الناجمة عن أمراض القلب والأوعية الدموية والسرطان وداء السكري والأمراض التنفسية المزمنة 
 global_indicators:3-4-2-title,Suicide mortality rate, معدل وفيات الانتحار
 global_indicators:3-5-1-title,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders",نطاق تغطية التـدخلات العلاجية (الخدمات الدوائية والنفسانية وخدمات إعـادة التأهيـل والرعاية اللاحقـة) لمعالجة الاضطرابات الناشئة عن تعاطي المواد المخدرة
-global_indicators:3-5-2-title,"Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol",الاستعمال الضار للكحول، محدداً وفقاً للظروف الوطنية في إطار استهلاك الفرد الواحد من الكحول (سن 15 سنة فأكثر) في سنة تقويمية، باللترات من الكحول الصافي
+global_indicators:3-5-2-title,Alcohol per capita consumption (Aged 15 years and older) within a calendar year in litres of pure alcohol,الاستعمال الضار للكحول، محدداً وفقاً للظروف الوطنية في إطار استهلاك الفرد الواحد من الكحول (سن 15 سنة فأكثر) في سنة تقويمية، باللترات من الكحول الصافي
 global_indicators:3-6-1-title,Death rate due to road traffic injuries,معدلات الوفيات الناجمة عن الإصابات جراء حوادث المرور على الطرق
 global_indicators:3-7-1-title,Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods,نسبة النساء اللاتي في سن الإنجاب (49-15 سنة) واللاتي لُبّيت حاجتُهن إالى تنظيم الأسرة بطرق حديثة 
 global_indicators:3-7-2-title,"Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group","معدل الولادات لدى المراهقات (10-14 سنة؛ و 15-19 سنة) لكل 1,000 امرأة في تلك الفئة العمرية"
-global_indicators:3-8-1-title,"Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population)",تغطية توافر الخدمات الصحية الأساسية (المعرَّفة باعتبارها متوسط التغطية التي توفر الخدمات الأساسية المستندة إالى الإجراءات الكاشفة التي تشمل الصحة الإنجابية، وصحة الأمهات، والمواليد الجدد، والأطفال، والأمراض المعدية، والأمراض غير المعدية، والقدرة على توفير الخدمات، وإمكانية الوصول إاليها لدى السكان عموماً والأشد حرماناً خصوصاً) 
+global_indicators:3-8-1-title,Coverage of essential health services,تغطية توافر الخدمات الصحية الأساسية (المعرَّفة باعتبارها متوسط التغطية التي توفر الخدمات الأساسية المستندة إالى الإجراءات الكاشفة التي تشمل الصحة الإنجابية، وصحة الأمهات، والمواليد الجدد، والأطفال، والأمراض المعدية، والأمراض غير المعدية، والقدرة على توفير الخدمات، وإمكانية الوصول إاليها لدى السكان عموماً والأشد حرماناً خصوصاً) 
 global_indicators:3-8-2-title,Proportion of population with large household expenditures on health as a share of total household expenditure or income,نسبة السكان الذين تصرف أسرهم المعيشية نفقات كبيرة على الصـحة محسـوبة كحصـة من مجموع إنفاق الأسـر المعيشـية أو دخلها
 global_indicators:3-9-1-title,Mortality rate attributed to household and ambient air pollution, معدل الوفيات المنسـوبة إلى الأســر المعيشــية وتلوث الهواء المحيط
 global_indicators:3-9-2-title,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",معدل الوفيات المنسـوب إلى المياه غير المأمونة، وخدمات الصـرف الصحي غير المأمونة والافتقار إلى المرافق الصـحية (التعرض لخدمات غير مأمونة في توفير المياه وخدمات الصـرف الصـحي والنظافة الصحية للجميع)
@@ -204,7 +260,9 @@ global_indicators:3-b-2-title,Total net official development assistance to medic
 global_indicators:3-b-3-title,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,نســبة المرافق الصـحية المتاحة فيها مجموعة أساسـية من الأدوية الضرورية التي تفي بالغرض بكلفة ميسورة على الدوام
 global_indicators:3-c-1-title,Health worker density and distribution,معدل كثافة الأخصائيين الصحيين وتوزيعهم
 global_indicators:3-d-1-title,International Health Regulations (IHR) capacity and health emergency preparedness,القـدرة على تنفيـذ اللوائح الصـحيـة الـدوليـة، والجـاهزيـة لمواجهة حالات الطوارئ الصحية
+global_indicators:3-d-2-title,Percentage of bloodstream infections due to selected antimicrobial-resistant organisms,Percentage of bloodstream infections due to selected antimicrobial-resistant organisms
 global_indicators:4-1-1-title,"Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",نســبة الأطفال والشــباب (أ) في الصــف الثاني/الثالث؛  و (ب) في نهـايـة المرحلـة الابتـدائيـة؛ و (ج) في نهـايـة المرحلـة الأولى من التعليم الثـــانوي، الـذين يحققون على الأقـــل الحـــد الأدنى من مستوى الكفاءة في ’1 ’القراءة، و’2 ’الرياضيات، بحسب الجنس
+global_indicators:4-1-2-title,"completion rate(primary education, lower secondary education, upper secondary education)","completion rate(primary education, lower secondary education, upper secondary education)"
 global_indicators:4-2-1-title,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex",نســـــبة الأطفال دون الخامسة الذين هم ماضـون على المسار الصـحيح من حيث النمو في مجالات الصحة، والتعلم، والرفاه النفسي والاجتماعي، بحسب الجنس
 global_indicators:4-2-2-title,"Participation rate in organized learning (one year before the official primary entry age), by sex",معدل المشاركة في التعلُّم المنظَّم (قبل سنة واحدة من سن الالتحاق الرسمي بالتعليم الابتدائي)، بحسب الجنس
 global_indicators:4-3-1-title,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex", معـدل مشـاركـة الشــبـاب والكبـار في التعليم الرسمي ً وغير الرسمي السـابقـة، والتـدريــب خلال الاثني عشـر شـهرا بحسب الجنس
@@ -275,12 +333,24 @@ global_indicators:9-5-2-title,Researchers (in full-time equivalent) per million 
 global_indicators:9-a-1-title,Total official international support (official development assistance plus other official flows) to infrastructure,مجموع الدعم الدولي (المساعدة الإنمائية الرسمية بالإضافة إلى التدفقات الرسمية الأخرى) إلى الهياكل الأساسية
 global_indicators:9-b-1-title,Proportion of medium and high-tech industry value added in total value added,نسـبة القيمة المضافة للصناعة التكنولوجية المتوسـطة والمتقدمة من مجموع القيمة المضافة
 global_indicators:9-c-1-title,"Proportion of population covered by a mobile network, by technology",نسبة السكان المشمولين بشبكة الهاتف المحمول، بحسب التكنولوجيا
-search:found_in,found in,موجود في
-search:indicator_search,Indicator search,بحث المؤشر
-search:keywords,Keywords,الكلمات الدالة
-search:no_results,No results,لا يوجد نتائج
-search:search,Search,بحث
-search:search_results_for,Search results for,نتائج البحث عن
+menu:about,About SDGs,عن
+menu:contact_us,Contact us,اتصل بنا
+menu:cookies,Cookies,ملفات تعريف الارتباط
+menu:faq,FAQ,أسئلة شائعة
+menu:guidance,Guidance,توجيه
+menu:menu,Menu,قائمة
+menu:publications,Publications,منشورات
+menu:reporting_status,Data availability,حالة التقارير
+menu:updates,Updates,
+frontpage:heading,The Korean Data of UN SDGS,%name بيانات لمؤشرات اهداف التنمية المستدامة
+frontpage:instructions,,انقر على كل هدف %before_link او ابحث عن %after_link احصائيات %name الخاصة بالمؤشرات العالمية لأهداف التنمية المستدامة
+status:exploring_data_sources,Exploring data sources,استكشاف مصادر البيانات
+status:not_applicable,Not applicable,لايمكن تطبيقه
+status:overall_reporting_status,Overall Reporting Status,وضع الاعلان العام
+status:reported_online,Reported online,اعلن على الانترنت
+status:reporting_status,Reporting Status,وضع الاعلان
+status:statistics_in_progress,Statistics in progress,الاحصائيات دائرة
+status:status_by_goal,Status by goal,الحالة حسب الهدف
 global_targets:1-1-title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",القضاء على الفقر المدقع للناس أجمعين أينما كانوا بحلول عام 2030، وهو يُقاس حالياً بعدد الأشخاص الذين يعيشون بأقل من 1.25 دولار في اليوم
 global_targets:1-2-title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",تخفيض نسـبة الرجال والنساء والأطفال من جميع الأعمار الـذين يعـانون الفقر بجميع أبعاده وفقــاً للتعـاريف الوطنية بمقــدار النصف على الأقل، بحلول عام 2030
 global_targets:1-3-title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable",تنفيـذ نظم وطنية ملائمـة للحمايـة الاجتمـاعية وتـدابير للجميع ووضع حدود دنيا لها، وبحلول عام 2030، تحقيق تغطية واسعة للفقراء والضعفاء
@@ -450,8 +520,8 @@ global_targets:9-5-title,"Enhance scientific research, upgrade the technological
 global_targets:9-a-title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States",تيسير إنشاء هياكل أساسية مستدامة وقادرة على الصمود في البلدان النامية، بتحسـين الدعم المالي والتكنولوجي والتقني المقدم للبلدان الأفريقية، وأقل البلدان نمواً، والبلدان النامية غير الساحلية، والدول الجزرية الصغيرة النامية
 global_targets:9-b-title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities",دعم أنشـطـة التطوير والبحـث والابتكـار في التكنولوجيـا المحلية في البلدان النامية، بوسـائل منها كفالة وجود بيئة مؤاتية من حيث السـياسـات للتنويع الصـناعي وإضـافة قيمة للسـلع الأسـاسـية بين أمور أخرى
 global_targets:9-c-title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,تحقيق زيادة كبيرة في فرص الحصول على تكنولوجيا المعلومات والاتصــالات، والســعي إلى توفير فرص الوصــول الشــامل والميسـور إلى شـبكة الإنترنـت في أقـل البلـدان نموا، بحلول عـام 2020
-frontpage:heading,The Korean Data of UN SDGS,%name بيانات لمؤشرات اهداف التنمية المستدامة
-frontpage:instructions,,انقر على كل هدف %before_link او ابحث عن %after_link احصائيات %name الخاصة بالمؤشرات العالمية لأهداف التنمية المستدامة
+post:posts_by_category,Posts by Category,المنشورات حسب الفئة
+post:view_all_in_category,View all posts in the %category_name category,عرض كل المنشورات في فئة %category_name
 global_goals:1-short,No poverty,لا فقر
 global_goals:1-title,End poverty in all its forms everywhere,القضاء على الفقر بجميع أشكاله في كل مكان
 global_goals:10-short,Reduced inequalities,انخفاض عدم المساواة
@@ -523,88 +593,21 @@ indicator:unit_of_measurement,Unit of Measurement,وحدة قياس
 indicator:units_type,Units type,نوع الوحدات
 indicator:variable_hint,Available when '%field' is selected,متاح عند تحديد '%field' 
 indicator:view_indicator_list,View this goal's indicator list,عرض قائمة المؤشرات لهذا الهدف
-metadata_fields:comments_limitations,Other information,معلومات اخرى
-metadata_fields:computation_calculations,Calculations,عمليات حسابية
-metadata_fields:computation_definitions,Definitions,تعريفات
-metadata_fields:computation_units,Unit of measurement,وحدة قياس
-metadata_fields:goal_meta_link,Link to UN metadata,رابط الى البيانات الوصفية للامم المتحدة
-metadata_fields:indicator,Indicator number,رقم المؤشر
-metadata_fields:indicator_definition,Global indicator description,وصف المؤشر العالمي
-metadata_fields:indicator_name,Indicator name,اسم المؤشر
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),ترتيب عرض المؤشر (داخل صفحة الهدف)
-metadata_fields:national_data_update_url,Data last updated,آخر تحديث للبيانات
-metadata_fields:national_geographical_coverage,Geographical coverage,تغطية جغرافية
-metadata_fields:national_indicator_available,Indicator available,مؤشر متاح
-metadata_fields:national_indicator_description,Indicator description,وصف المؤشر
-metadata_fields:national_metadata_update_url,Metadata last updated,آخر تحديث للبيانات الوصفية
-metadata_fields:source_contact_1,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_2,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_3,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_4,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_5,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_6,Contact details,تفاصيل الاتصال
-metadata_fields:source_earliest_available_1,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_2,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_3,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_4,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_5,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_6,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_geographical_coverage_1,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_2,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_3,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_4,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_5,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_6,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_next_release_1,Next release,الاصدار التالي
-metadata_fields:source_next_release_2,Next release,الاصدار التالي
-metadata_fields:source_next_release_3,Next release,الاصدار التالي
-metadata_fields:source_next_release_4,Next release,الاصدار التالي
-metadata_fields:source_next_release_5,Next release,الاصدار التالي
-metadata_fields:source_next_release_6,Next release,الاصدار التالي
-metadata_fields:source_organisation_1,Organisation,منظمة
-metadata_fields:source_organisation_2,Organisation,منظمة
-metadata_fields:source_organisation_3,Organisation,منظمة
-metadata_fields:source_organisation_4,Organisation,منظمة
-metadata_fields:source_organisation_5,Organisation,منظمة
-metadata_fields:source_organisation_6,Organisation,منظمة
-metadata_fields:source_other_info_1,Other information,معلومات اخرى
-metadata_fields:source_other_info_2,Other information,معلومات اخرى
-metadata_fields:source_other_info_3,Other information,معلومات اخرى
-metadata_fields:source_other_info_4,Other information,معلومات اخرى
-metadata_fields:source_other_info_5,Other information,معلومات اخرى
-metadata_fields:source_other_info_6,Other information,معلومات اخرى
-metadata_fields:source_periodicity_1,Periodicity,دورية
-metadata_fields:source_periodicity_2,Periodicity,دورية
-metadata_fields:source_periodicity_3,Periodicity,دورية
-metadata_fields:source_periodicity_4,Periodicity,دورية
-metadata_fields:source_periodicity_5,Periodicity,دورية
-metadata_fields:source_periodicity_6,Periodicity,دورية
-metadata_fields:source_release_date_1,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_2,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_3,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_4,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_5,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_6,Release date,تاريخ الاصدار
-metadata_fields:source_statistical_classification_1,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_2,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_3,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_4,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_5,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_6,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_url_1,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_2,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_3,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_4,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_5,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_6,Link to data source,رابط الى مصدر البيانات
-metadata_fields:target,Target name,اسم الهدف
-metadata_fields:target_id,Target number,رقم الهدف
-metadata_fields:un_custodian_agency,UN custodian agency,وكالة الوصاية للأم المتحدة
-metadata_fields:un_designated_tier,UN designated tier,الطبقة المعينة من الأمم المتحدة
-status:exploring_data_sources,Exploring data sources,استكشاف مصادر البيانات
-status:not_applicable,Not applicable,لايمكن تطبيقه
-status:overall_reporting_status,Overall Reporting Status,وضع الاعلان العام
-status:reported_online,Reported online,اعلن على الانترنت
-status:reporting_status,Reporting Status,وضع الاعلان
-status:statistics_in_progress,Statistics in progress,الاحصائيات دائرة
-status:status_by_goal,Status by goal,الحالة حسب الهدف
+general:facebook,Facebook,فيسبوك
+general:goal,Goal,هدف
+general:goals,Progress,اهداف
+general:home,Home,الصفحة الرئيسية  (Home page)
+general:indicator,Indicator,مؤشر
+general:indicators,Indicators,مؤشرات
+general:loading,Loading search results,تحميل نتائج البحث
+general:opens_new_window,opens in a new window,تنفتح في نافذة جديدة
+general:sdg,Sustainable Development Goals,اهداف التنمية المستدامة
+general:target,Target,استهداف
+general:targets,Targets,أهداف
+general:twitter,Twitter,تويتر
+search:found_in,found in,موجود في
+search:indicator_search,Indicator search,بحث المؤشر
+search:keywords,Keywords,الكلمات الدالة
+search:no_results,No results,لا يوجد نتائج
+search:search,Search,بحث
+search:search_results_for,Search results for,نتائج البحث عن
