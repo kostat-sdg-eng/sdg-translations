@@ -136,6 +136,7 @@
 2-1-2-title: 根据粮食无保障情况表,中度或严重的粮食无保障人口发生率
 2-2-1-title: 五岁以下儿童发育迟缓发病率(年龄标准身高小于世卫组织儿童生长发育标准中位数-2的标准偏差)
 2-2-2-title: 按类型(消瘦和超重)分列的五岁以下儿童营养不良发生率(身高标准体重大于或小于世卫组织儿童生长发育标准中位数+2或-2的标准偏差)
+2-2-3-title: Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)
 2-3-1-title: 按农业/畜牧/林业企业规模分类的每个劳动单位的生产量
 2-3-2-title: 按性别和土著地位分类的小型粮食生产者的平均收入
 2-4-1-title: 从事生产性和可持续农业的农业地区比例
@@ -173,7 +174,9 @@
 3-b-3-title: 具备一套可持续获得、负担得起、相关和必要的核心药物的保健设施所占比例
 3-c-1-title: 卫生工作者的密度和分布情况
 3-d-1-title: 遵守《国际卫生条例》的能力和保健方面应急准备
+3-d-2-title: Percentage of bloodstream infections due to selected antimicrobial-resistant organisms
 4-1-1-title: (a) 在2/3年级、(b) 小学结束时、(c) 初中结束时获得起码的(一) 阅读和(二) 数学能力的儿童和青年的比例,按性别分列
+4-1-2-title: completion rate(primary education, lower secondary education, upper secondary education)
 4-2-1-title: 在保健、学习和社会心理健康方面发育正常的5岁以下儿童的比例,按性别分列
 4-2-2-title: 有组织学习(小学入学正规年龄的一年前)的参与率,按性别分列
 4-3-1-title: 过去12个月青年和成年人正规和非正规教育和培训的参与率,按性别分列
