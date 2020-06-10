@@ -40,12 +40,15 @@
   der nach internationalem Menschenrechtsgesetzen verboten ist
 10-4-1-title: Anteil des Arbeitsnehmerentgelts am BIP, bestehend aus Löhnen, Gehältern
   und Sozialversicherungsbeiträgen
+10-4-2-title: Redistrivutive Impact of fiscal policy
 10-5-1-title: Financial Soundness Indicators
 10-6-1-title: Anteil der Mitglieder und Stimmrechte der Entwicklungsländer  in internationalen
   Organisationen
 10-7-1-title: Von Beschäftigten getragene Einstellungskosten als Anteil des Jahreseinkommens
   des Bestimmungslandes
 10-7-2-title: Anzahl der Staaten mit gut umgesetzter Migrationspolitik
+10-7-3-title: Number of people who died or disappeared in the process of migration towards an international destination
+10-7-4-title: Proportion of the population who are refugees, by country of origin
 10-a-1-title: Anteil der Zolltarife auf Einfuhren aus den am wenigsten entwickelten
   Ländern sowie Entwicklungsländer mit Zollfreiheit
 10-b-1-title: Gesamte Kapitalströme für Entwicklung, nach Nehmer- und Geberländern
@@ -86,9 +89,6 @@
 11-b-2-title: Anteil der lokalen Regierungen, die lokale Strategien zur Reduzierung
   des Katastrophenrisikos in Einklang mit den nationalen Strategien zur Katastrophenvorsorge
   verabschiedet und umgesetzt haben
-11-c-1-title: Anteil der finanziellen Unterstützung, die den am wenigsten entwickelten
-  Ländern für den Umbau zu und Neubau von nachhaltigen, widerstandsfähigen und ressourceneffizienten
-  Gebäuden unter Verwendung lokaler Materialien bereitgestellt wird
 12-1-1-title: Anzahl der Staaten mit nationalen Aktionsplänen zu nachhaltigem Konsum
   und Produktion (SCP) oder SCP, die als Priorität oder Ziel in nationale Politik
   aufgenommen wurden
@@ -134,12 +134,10 @@
   fördert ohne die Nahrungsmittelproduktion zu gefährden (einschließlich eines nationalen
   Anpassungsplans, national festgelegten Beitrags, nationaler Kommunikation, zweijährlichen
   Aktualisierungsberichts oder anderer)
+13-2-2-title: Total greenhouse gas emissions per year
 13-3-1-title: Anzahl der Staaten, die die Minderung, Anpassung, Reduzierung der Auswirkungen
   und Frühwarnsysteme in den primären, sekundären und tertiären Lehrplänen integriert
   haben
-13-3-2-title: Anzahl der Staaten, die die Stärkung des institutionellen, systemischen
-  und individuellen Kapazitätsaufbaus zur Umsetzung von Anpassung, Minderung und Technologietransfer
-  und Entwicklungsmaßnahmen verkündet haben
 13-a-1-title: Mobilisierter Betrag an US-Dollar pro Jahr zwischen 2020 und 2025, anrechenbar
   auf die Zusage von 100 Milliarden US-Dollar
 13-b-1-title: Anzahl der am wenigsten entwickelten Länder und kleinen Inselentwicklungsstaaten,
@@ -218,6 +216,7 @@
   ihre Viktimisierung den zuständigen Behörden oder anderen offiziell anerkannten
   Stellen der Konfliktaufarbeitung gemeldet haben
 16-3-2-title: Nicht-verurteilte Häftlinge als Anteil an der gesamten Gefangenenpopulation
+16-3-3-title: Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism
 16-4-1-title: Gesamtwert der ein- und ausgehenden illegalen Finanzströme (in aktuellen
   US-Dollar)
 16-4-2-title: Anteil der beschlagnahmten, aufgegriffenen oder abgegebenen Waffen,
@@ -287,9 +286,7 @@
 17-4-1-title: Schuldendienst als Anteil an Güter- und Dienstleistungsexporten
 17-5-1-title: Anzahl der Staaten, die Investitionsförderprogramme für die am wenigsten
   entwickelten Länder einführen und umsetzen
-17-6-1-title: Anzahl der Vereinbarungen und Programme über Wissenschafts- und/oder
-  Technologie-Kooperationen zwischen Staaten, nach Art der Kooperation
-17-6-2-title: Internet-Breitband-Verträge je 100 Einwohner, nach Geschwindigkeit
+17-6-1-title: Internet-Breitband-Verträge je 100 Einwohner, nach Geschwindigkeit
 17-7-1-title: Gesamtbetrag der für Entwicklungsländer genehmigten Mittel zur Förderung
   der Entwicklung, des Transfers, der öffentlichen Bereitstellung und der Verbreitung
   umweltfreundlicher Technologien
@@ -375,9 +372,7 @@
   der Grundschule und (c) am Ende der Sekundarstufe I ein Mindestleistungsniveau in
   (i) Lesen und (ii) Mathematik erreichen, nach Geschlecht
 4-1-2-title: completion rate(primary education, lower secondary education, upper secondary education)
-4-2-1-title: Anteil der Kinder unter 5 Jahren mit einer altersgemäßen  Entwicklung
-  hinsichtlich Gesundheit, Lernen und psycho-sozialem Wohlbefinden, nach Geschlecht
-4-2-2-title: Teilnahmequote an frühkindlicher Bildung (ein Jahr vor dem offiziellen
+4-2-1-title: Teilnahmequote an frühkindlicher Bildung (ein Jahr vor dem offiziellen
   Einschulungsalter), nach Geschlecht
 4-3-1-title: Teilnahmequote von Jugendlichen und Erwachsenen an formaler und non-formaler
   Bildung und Ausbildung in den vergangenen 12 Monaten, nach Geschlecht
@@ -488,8 +483,6 @@
   und Tarifverhandlungen) basierend auf Textquellen der Internationalen Arbeitsorganisation
   (ILO) und nationaler Gesetzesgrundlagen, nach Geschlecht und Migrationsstatus
 8-9-1-title: Direktes BIP des Tourismus als Anteil am gesamten BIP und als Wachstumsrate
-8-9-2-title: Anteil der Arbeitsplätze im nachhaltigen Tourismus an den gesamten Arbeitsplätzen
-  im Tourismusbereich
 8-a-1-title: Aid for Trade-Zusagen und -Auszahlungen
 8-b-1-title: Existenz einer entwickelten und operationalisierten nationalen Strategie
   zu Jugendbeschäftigung , als eigenständige Strategie oder als Teil einer nationalen
