@@ -24,13 +24,11 @@ dataset_size_warning: 너무 많은 항목이 선택되었습니다.
 view_indicator_list: View this goal's indicator list
 sub_categories: 데이터 세분화
 series_help: 성, 연령 등에 따른 세분화된 값을 보려면 해당되는 항목을 선택해 주십시오.
-legend_help: 범례의 개별 항목을 클릭하면 해당 항목을
-  그래프에서 삭제하실 수 있습니다.
 chart: 그래프
 table: 표
 map: 지도
 loading_map: 지도를 불어오고 있습니다.
-national_metadata: 데이터명과 정의
+national_metadata: 지표명과 정의
 national_metadata_blurb: 
 global_metadata: 메타데이터
 global_metadata_blurb: 
