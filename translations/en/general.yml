@@ -1,7 +1,7 @@
 indicator: Indicator
 indicators: Indicators
 goal: Goal
-goals: Progress
+goals: Progress by goal
 sdg: Sustainable Development Goals
 home: Home
 loading: Loading search results
