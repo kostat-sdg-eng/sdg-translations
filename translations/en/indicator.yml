@@ -31,7 +31,7 @@ chart: Chart
 table: Table
 map: Map
 loading_map: Loading map
-national_metadata: Data and Definitions
+national_metadata: Indicator and Definitions
 national_metadata_blurb: This table provides metadata for the actual indicator
   available from %country_name statistics closest to the corresponding
   global SDG indicator. Please note that even when the global SDG indicator is
