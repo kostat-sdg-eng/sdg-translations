@@ -12,8 +12,8 @@ national_geographical_coverage: Couverture géographique
 national_indicator_available: Indicateur disponible
 national_indicator_description: Description de l&#39;indicateur
 national_metadata_update_url: Dernière mise à jour des métadonnées
-National_medadata : National medadata
-Global_medadata : Global medadata
+national_medadata: National medadata
+global_medadata: Global medadata
 source_contact_1: Détails du contact
 source_contact_2: Détails du contact
 source_contact_3: Détails du contact

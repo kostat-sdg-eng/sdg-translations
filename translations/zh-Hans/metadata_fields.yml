@@ -12,8 +12,8 @@ national_geographical_coverage: 地域覆盖范围
 national_indicator_available: 可用指标
 national_indicator_description: 指标描述
 national_metadata_update_url: 元数据最后更新时间
-National_medadata : National medadata
-Global_medadata : Global medadata
+national_medadata: National medadata
+global_medadata: Global medadata
 source_contact_1: 联系方式
 source_contact_2: 联系方式
 source_contact_3: 联系方式
