@@ -15,8 +15,6 @@ download_chart_image: Download Chart Image
 download_chart_image_title: Download chart as image
 source: Source
 sources: Sources
-National_medadata: National medadata
-Global_medadata: Global medadata
 geographical_area: Geographical Area
 unit_of_measurement: Unit of Measurement
 footnote: Footnote
