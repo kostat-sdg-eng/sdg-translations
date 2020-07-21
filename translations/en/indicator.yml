@@ -40,6 +40,7 @@ national_metadata_blurb: This table provides metadata for the actual indicator
   %country_adjective-specific metadata information.
 global_metadata: Metadata
 global_metadata_blurb: This table provides information on metadata for SDG
+national_indicator_description : Indicator Description
   indicators as defined by the UN Statistical Commission.
   <a href="https://unstats.un.org/sdgs/metadata/">Complete global metadata</a>
   is provided by the UN Statistics Division.
