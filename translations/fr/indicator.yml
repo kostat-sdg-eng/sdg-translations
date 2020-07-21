@@ -46,3 +46,4 @@ unit_of_measurement: Unité de mesure
 units_type: Type d&#39;unités
 variable_hint: Disponible lorsque le champ '%field' est sélectionné
 view_indicator_list: Voir la liste des indicateurs de cet objectif
+national_indicator_description : Indicator Description

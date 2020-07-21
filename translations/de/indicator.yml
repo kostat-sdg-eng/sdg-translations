@@ -46,3 +46,4 @@ unit_of_measurement: Einheit
 units_type: Einheit
 variable_hint: Verfügbar
 view_indicator_list: Zeigt die Indikatorenliste zum SDG-Ziel an.
+national_indicator_description : Indicator Description

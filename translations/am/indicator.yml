@@ -44,3 +44,4 @@ unit_of_measurement: Չափման  միավոր
 units_type: Միավորների տեսակը
 variable_hint: 'Հասանելի է, երբ ընտրված է դաշտը ''%field'' '
 view_indicator_list: Տեսնել այս նպատակի ցուցանիշների ցանկը
+national_indicator_description : Indicator Description

@@ -41,3 +41,4 @@ unit_of_measurement: وحدة قياس
 units_type: نوع الوحدات
 variable_hint: 'متاح عند تحديد ''%field'' '
 view_indicator_list: عرض قائمة المؤشرات لهذا الهدف
+national_indicator_description : Indicator Description

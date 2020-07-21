@@ -43,3 +43,4 @@ unit_of_measurement: Единица измерения
 units_type: Вид единиц
 variable_hint: Доступно, когда выбрано
 view_indicator_list: Посмотреть список индикаторов этой цели
+national_indicator_description : Indicator Description
