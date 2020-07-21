@@ -13,8 +13,6 @@ download_csv: Download CSV
 download_csv_title: Download as CSV
 download_chart_image: Download Chart Image
 download_chart_image_title: Download chart as image
-national_metadata: National metadata
-global_metadata: Global metadata
 source: Source
 sources: Sources
 geographical_area: Geographical Area
