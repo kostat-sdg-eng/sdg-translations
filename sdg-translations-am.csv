@@ -1,4 +1,16 @@
 ﻿key,en,am
+general:facebook,Facebook,Ֆեյսբուք
+general:goal,Goal,Նպատակը
+general:goals,Progress by goal,Նպատակները
+general:home,Home,Գլխավոր էջ
+general:indicator,Indicator,Ցուցանիշ
+general:indicators,Indicators,Ցուցանիշներ
+general:loading,Loading search results,Որոնման արդյունքները բեռնվում են 
+general:opens_new_window,opens in a new window,Բացվում է նոր պատուհանում
+general:sdg,Sustainable Development Goals,Կայուն զարգացման նպատակներ
+general:target,Target,Թիրախը
+general:targets,Targets,Թիրախներ
+general:twitter,Twitter,Թվիթերի
 global_indicators:1-1-1-title,"Proportion of the population living below the international poverty line by sex, age, employment status and geographical location (urban/rural)","Աղքատության միջազգային շեմից ցած ապրող բնակչության համամասնությունը՝ ըստ սեռի, տարիքային խմբի, զբաղվածության կարգավիճակի և աշխարհագրական վայրի (քաղաքային/գյուղական)"
 global_indicators:1-2-1-title,"Proportion of population living below the national poverty line, by sex and age",Աղքատության ազգային շեմից ցած ապրող բնակչության համամասնությունը՝ ըստ սեռի և տարիքային խմբի 
 global_indicators:1-2-2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Ըստ ազգային սահմանումների աղքատության բոլոր ձևերի մեջ ապրող բոլոր տարիքների տղամարդկանց, կանանց և երեխաների համամասնությունը "
@@ -247,44 +259,21 @@ global_indicators:9-5-2-title,Researchers (in full-time equivalent) per million 
 global_indicators:9-a-1-title,Total official international support (official development assistance plus other official flows) to infrastructure,Ընդհանուր միջազգային պաշտոնական օժանդակություն (զարգացմանն ուղղված պաշտոնական օգնություն՝ գումարած այլ պաշտոնական հոսքեր) ենթակառուցվածքներին 
 global_indicators:9-b-1-title,Proportion of medium and high-tech industry value added in total value added,Միջին և բարձր տեխնոլոգիաների ճյուղի ավելացված արժեքի համամասնությունը ընդհանուր ավելացված արժեքի մեջ 
 global_indicators:9-c-1-title,"Proportion of population covered by a mobile network, by technology",Բջջային ցանցի ծածկույթ ունեցող բնակչության համամասնությունը ըստ տեխնոլոգիայի 
-indicator:chart,Chart,Գծապատկեր
-indicator:clear_all,Clear all,Մաքրել ամեն ինչ 
-indicator:clear_selections,Clear selections,Մաքրել նշվածները 
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"Տվյալները չափազանց շատ են գծապատկերում ցուցադրելու համար: Նրանցից ոչ բոլորը կցուցադրվեն, քանի դեռ չեք հանել որոշ նշվածները:"
-indicator:download_chart,Download Chart CSV,Ներբեռնել CSV գծապատկեր
-indicator:download_chart_image,Download Chart Image,Ներբեռնեք գծապատկերի պատկերը
-indicator:download_chart_image_title,Download chart as image,Ներբեռնեք աղյուսակը որպես պատկեր
-indicator:download_csv,Download CSV,Ներբեռնել CSV
-indicator:download_csv_title,Download as CSV,Ներբեռնել որպես CSV
-indicator:download_headline,Download Headline CSV,Ներբեռնել վերնագիրը որպես CSV
-indicator:download_headline_title,Download headline data as CSV,Ներբեռնել վերնագրի տվյալները որպես CSV
-indicator:download_source,Download Source CSV,Ներբեռնել աղբյուրը CSV
-indicator:download_source_title,Download source data as CSV,"Ներբեռնել աղբյուրի տվյալները, որպես CSV"
-indicator:download_table,Download Table CSV,Ներբեռնել CSV աղյուսակը
-indicator:edit,Edit,Խմբագրել
-indicator:edit_data,Edit Data,Խմբագրել տվյալները
-indicator:edit_metadata,Edit Metadata,Խմբագրել մետատվյալները
-indicator:footnote,Footnote,Ծանոթագրություն
-indicator:geographical_area,Geographical Area,Աշխարհագրական դիրք
-indicator:global_metadata,Metadata,Գլոբալ մետատվյալներ
-indicator:global_metadata_blurb,This table provides information on metadata for SDG,"Այս աղյուսակը տեղեկատվություն է տրամադրում ՄԱԿ-ի վիճակագրական կոմիտեի սահմանած ԿԶՆ ցուցանիշների մետատվյալի մասին <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> "
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,Սեղմեք նկարագրությանը գծապատկերից անհատական գծերը հեռացնելու համար:
-indicator:loading_map,Loading map,Քարտեզը բեռնվում է։
-indicator:map,Map,Քարտեզ
-indicator:national_indicator_description,"Indicator Description indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",Indicator Description
-indicator:national_metadata,Indicator and Definitions,Ազգային մետատվյալներ
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Այս աղյուսակը տրամադրում է երկրի_անվանում վիճակագրությունում առկա համապատասխան գլոբալ ԿԶՆ ցուցանիշին ամենամոտ մետատվյալներ գործող ցուցանիշի վերաբերյալ։ Խնդրում ենք նկատի ունենալ, որ նույնիսկ այն դեպքում, երբ գլոբալ ԿԶՆ ցուցանիշը ամբողջությամբ հասանելի է երկրին_համապատասխան վիճակագրության մեջ, այս աղյուսակը պետք է ծառայի ազգային մեթոդաբանության և այլ երկրին_համապատասխան մետատվյալների վերաբերյալ տեղեկատվության համար:"
-indicator:no_data_hint,No options available because of filters above,Վերը նշված ֆիլտրերի պատճառով ընտրանք չկա
-indicator:select_all,Select all,Ընտրել ամբողջը
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Ընտրել ստորև բերված կատեգորիաները `տվյալների տարբեր ենթախմբերը տեսնելու համար: Ոմանք հասանելի չեն լինի, մինչև չընտրվի առավել բարձր մակարդակը: "
-indicator:source,Source,Աղբյուր
-indicator:sources,Sources,Աղբյուրներ
-indicator:sub_categories,Sub-categories,Ենթախմբեր
-indicator:table,Table,Աղյուսակ
-indicator:unit_of_measurement,Unit of Measurement,Չափման  միավոր
-indicator:units_type,Units type,Միավորների տեսակը
-indicator:variable_hint,Available when '%field' is selected,"Հասանելի է, երբ ընտրված է դաշտը '%field' "
-indicator:view_indicator_list,View this goal's indicator list,Տեսնել այս նպատակի ցուցանիշների ցանկը
+header:alpha,Alpha,Ալֆա
+header:default_contrast,ABC,լռելյայն հակադրություն
+header:disable_high_contrast,Disable high contrast,Անջատեք բարձր հակադրություն
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","Սա մշակման վեբ կայք է: Մենք ողջունում ենք ձեր <a href=""mailto:%email_address""> հետադարձ կապը  "
+header:enable_high_contrast,Enable high contrast,Միացնել բարձր հակադրություն
+header:high_contrast,ABC,բարձր հակադրություն
+header:skip_link,Skip to main content,Անցեք հիմնական բովանդակությանը 
+header:tag_line,17 Goals to Transform our World,17 նպատակներ մեր աշխարհը փոխակերպելու համար
+status:exploring_data_sources,Exploring data sources,Ուսումնասիրել տվյալների աղբյուրները 
+status:not_applicable,Unavailable,ոչ կիրառելի
+status:overall_reporting_status,Overall Reporting Status,Ընդհանուր հաշվետվության կարգավիճակը
+status:reported_online,Reported online,Առցանց հաշվետվություն 
+status:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
+status:statistics_in_progress,Statistics in progress,Վիճակագրությունը ընթացքում է
+status:status_by_goal,Status by goal,Գոլի կարգավիճակ
 metadata_fields:comments_limitations,Other information,Այլ տեղեկություններ 
 metadata_fields:computation_calculations,Calculations,Հաշվարկներ 
 metadata_fields:computation_definitions,Definitions,Սահմանումներ 
@@ -300,7 +289,7 @@ metadata_fields:national_geographical_coverage,Geographical coverage,Աշխար�
 metadata_fields:national_indicator_available,Indicator available,Առկա ցուցանիշ
 metadata_fields:national_indicator_description,Indicator description,Ցուցանիշի նկարագիր 
 metadata_fields:national_metadata,National medadata,
-metadata_fields:national_metadata_link,Link to UN metadata,
+metadata_fields:national_metadata_link,,
 metadata_fields:national_metadata_update_url,Metadata last updated,Մետատվյալները վերջին անգան թարմացվել են 
 metadata_fields:source_contact_1,Contact details,Կոնտակտային տվյալներ
 metadata_fields:source_contact_2,Contact details,Կոնտակտային տվյալներ
@@ -366,15 +355,6 @@ metadata_fields:target,Target name,Թիրախի անվանումը
 metadata_fields:target_id,Target number,Թիրախի համարը 
 metadata_fields:un_custodian_agency,UN custodian agency,ՄԱԿ -ի պահառու գործակալություն
 metadata_fields:un_designated_tier,UN designated tier,ՄԱԿ-ի կողմից նշանակված աստիճան 
-menu:about,About SDGs,Վերաբերյալ
-menu:contact_us,Contact us,Կապ մեզ հետ
-menu:cookies,Cookies,Քուկիներ 
-menu:faq,FAQ,ՀՏՀ
-menu:guidance,Guidance,Ուղեցույց
-menu:menu,Menu,Ցանկ
-menu:publications,Publications,Հրապարակումներ
-menu:reporting_status,Data selection,Հաշվետվության կարգավիճակը 
-menu:updates,Updates,
 global_targets:1-1-title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day","Մինչև 2030թ. ամենուրեք և բոլոր մարդկանց համար իսպառ վերացնել ծայրահեղ աղքատությունը, որը ներկայումս չափվում է որպես օրական 1,25 դոլարից պակաս սպառում"
 global_targets:1-2-title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Մինչև 2030թ. առնվազն կիսով չափ կրճատել ըստ ազգային սահմանումների աղքատության բոլոր ձևերի մեջ ապրող բոլոր տարիքների տղամարդկանց, կանանց և երեխաների համամասնությունը"
 global_targets:1-3-title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","Ներդնել տվյալ երկրում համապատասխան սոցիալական պաշտպանության համակարգեր և միջոցառումներ բոլորի համար, այդ թվում՝ սոցիալական պաշտպանության երաշխիքների խմբեր, և մինչև 2030թ. հասնել աղքատների և խոցելիների էական չափերով ընդգրկմանը"
@@ -557,35 +537,15 @@ global_targets:9-5-title,"Enhance scientific research, upgrade the technological
 global_targets:9-a-title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States","Դյուրացնել կայուն և դիմակայուն ենթակառուցվածքների զարգացումը զարգացող երկրներում՝ ցուցաբերելով ընդլայնված ֆինանսական, տեխնոլոգիական և փորձագիտական օժանդակություն  աֆրիկյան երկրներին, առավել թույլ զարգացած երկրներին, դեպի ծով ելք չունեցող զարգացող երկրներին և զարգացող փոքր կղզի-պետություններին "
 global_targets:9-b-title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities","Օժանդակել հայրենական տեխնոլոգիաների զարգացմանը, գիտահետազոտական աշխատանքներին և նորարարությանը զարգացող երկրներում, այդ թվում՝ ապահովելով քաղաքականությունների առումով նպաստավոր միջավայր, ի թիվս այլոց, արդյունաբերության բազմազանեցման և հումքային ապրանքներին արժեքի ավելացման համար "
 global_targets:9-c-title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,Զգալիորեն մեծացնել տեղեկատվական և հաղորդակցման տեխնոլոգիաների հասանելիությունը և ձգտել տրամադրել համացանցի համընդհանուր և մատչելի հասանելիություն առավել թույլ զարգացած երկրներին մինչև 2020թ. 
-header:alpha,Alpha,Ալֆա
-header:default_contrast,ABC,լռելյայն հակադրություն
-header:disable_high_contrast,Disable high contrast,Անջատեք բարձր հակադրություն
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","Սա մշակման վեբ կայք է: Մենք ողջունում ենք ձեր <a href=""mailto:%email_address""> հետադարձ կապը  "
-header:enable_high_contrast,Enable high contrast,Միացնել բարձր հակադրություն
-header:high_contrast,ABC,բարձր հակադրություն
-header:skip_link,Skip to main content,Անցեք հիմնական բովանդակությանը 
-header:tag_line,17 Goals to Transform our World,17 նպատակներ մեր աշխարհը փոխակերպելու համար
-post:posts_by_category,Posts by Category,Գրառումներ ըստ կատեգորիաների  
-post:view_all_in_category,View all posts in the %category_name category,Տեսնել բոլոր գրառումները %category_name category
-general:facebook,Facebook,Ֆեյսբուք
-general:goal,Goal,Նպատակը
-general:goals,Progress by goal,Նպատակները
-general:home,Home,Գլխավոր էջ
-general:indicator,Indicator,Ցուցանիշ
-general:indicators,Indicators,Ցուցանիշներ
-general:loading,Loading search results,Որոնման արդյունքները բեռնվում են 
-general:opens_new_window,opens in a new window,Բացվում է նոր պատուհանում
-general:sdg,Sustainable Development Goals,Կայուն զարգացման նպատակներ
-general:target,Target,Թիրախը
-general:targets,Targets,Թիրախներ
-general:twitter,Twitter,Թվիթերի
-status:exploring_data_sources,Exploring data sources,Ուսումնասիրել տվյալների աղբյուրները 
-status:not_applicable,Unavailable,ոչ կիրառելի
-status:overall_reporting_status,Overall Reporting Status,Ընդհանուր հաշվետվության կարգավիճակը
-status:reported_online,Reported online,Առցանց հաշվետվություն 
-status:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
-status:statistics_in_progress,Statistics in progress,Վիճակագրությունը ընթացքում է
-status:status_by_goal,Status by goal,Գոլի կարգավիճակ
+menu:about,About SDGs,Վերաբերյալ
+menu:contact_us,Contact us,Կապ մեզ հետ
+menu:cookies,Cookies,Քուկիներ 
+menu:faq,FAQ,ՀՏՀ
+menu:guidance,Guidance,Ուղեցույց
+menu:menu,Menu,Ցանկ
+menu:publications,Publications,Հրապարակումներ
+menu:reporting_status,Data selection,Հաշվետվության կարգավիճակը 
+menu:updates,Updates,
 global_goals:1-short,No poverty,Ոչ աղքատությանը
 global_goals:1-title,End poverty in all its forms everywhere,Ամենուրեք վերացնել աղքատությունը՝ իր բոլոր ձևերով ու դրսևորումներով
 global_goals:10-short,Reduced inequalities,Կրճատված անհավասարություն
@@ -623,11 +583,51 @@ global_goals:8-short,Decent jobs and economic growth,Արժանապատիվ աշ
 global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Խթանել կայացած, ներառական և կայուն տնտեսական աճ, լիարժեք և արտադրողական զբաղվածություն և արժանապատիվ աշխատանք բոլորի համար"
 global_goals:9-short,"Industry, innovation and infrastructure","Արդյունաբերություն, նորարարություն և ենթակառուցվածքներ"
 global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Ստեղծել դիմակայուն ենթակառուցվածքներ, աջակցել ներառական և կայուն արդյունաբերության զարգացմանը և խթանել նորարարությունը"
-frontpage:heading,[AVAILABLE SOON] Korean Data of UN SDGs,%name Կայուն զարգացման նպատակների ցուցանիշների տվյալներ
-frontpage:instructions,,"Սեղմեք յուրաքանչյուր նպատակի վրա %before_link որոնում, %after_link երկիր_անվանում Կայուն Զարգացման Նպատակների գլոբալ ցուցանիշների համար "
+indicator:chart,Chart,Գծապատկեր
+indicator:clear_all,Clear all,Մաքրել ամեն ինչ 
+indicator:clear_selections,Clear selections,Մաքրել նշվածները 
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"Տվյալները չափազանց շատ են գծապատկերում ցուցադրելու համար: Նրանցից ոչ բոլորը կցուցադրվեն, քանի դեռ չեք հանել որոշ նշվածները:"
+indicator:download_chart,Download Chart CSV,Ներբեռնել CSV գծապատկեր
+indicator:download_chart_image,Download Chart Image,Ներբեռնեք գծապատկերի պատկերը
+indicator:download_chart_image_title,Download chart as image,Ներբեռնեք աղյուսակը որպես պատկեր
+indicator:download_csv,Download CSV,Ներբեռնել CSV
+indicator:download_csv_title,Download as CSV,Ներբեռնել որպես CSV
+indicator:download_headline,Download Headline CSV,Ներբեռնել վերնագիրը որպես CSV
+indicator:download_headline_title,Download headline data as CSV,Ներբեռնել վերնագրի տվյալները որպես CSV
+indicator:download_source,Download Source CSV,Ներբեռնել աղբյուրը CSV
+indicator:download_source_title,Download source data as CSV,"Ներբեռնել աղբյուրի տվյալները, որպես CSV"
+indicator:download_table,Download Table CSV,Ներբեռնել CSV աղյուսակը
+indicator:edit,Edit,Խմբագրել
+indicator:edit_data,Edit Data,Խմբագրել տվյալները
+indicator:edit_metadata,Edit Metadata,Խմբագրել մետատվյալները
+indicator:footnote,Footnote,Ծանոթագրություն
+indicator:geographical_area,Geographical Area,Աշխարհագրական դիրք
+indicator:global_metadata,Metadata,Գլոբալ մետատվյալներ
+indicator:global_metadata_blurb,This table provides information on metadata for SDG,"Այս աղյուսակը տեղեկատվություն է տրամադրում ՄԱԿ-ի վիճակագրական կոմիտեի սահմանած ԿԶՆ ցուցանիշների մետատվյալի մասին <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> "
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,Սեղմեք նկարագրությանը գծապատկերից անհատական գծերը հեռացնելու համար:
+indicator:loading_map,Loading map,Քարտեզը բեռնվում է։
+indicator:map,Map,Քարտեզ
+indicator:national_indicator_description,"Indicator Description indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",Indicator Description
+indicator:national_metadata,Indicator and Definitions,Ազգային մետատվյալներ
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Այս աղյուսակը տրամադրում է երկրի_անվանում վիճակագրությունում առկա համապատասխան գլոբալ ԿԶՆ ցուցանիշին ամենամոտ մետատվյալներ գործող ցուցանիշի վերաբերյալ։ Խնդրում ենք նկատի ունենալ, որ նույնիսկ այն դեպքում, երբ գլոբալ ԿԶՆ ցուցանիշը ամբողջությամբ հասանելի է երկրին_համապատասխան վիճակագրության մեջ, այս աղյուսակը պետք է ծառայի ազգային մեթոդաբանության և այլ երկրին_համապատասխան մետատվյալների վերաբերյալ տեղեկատվության համար:"
+indicator:no_data_hint,No options available because of filters above,Վերը նշված ֆիլտրերի պատճառով ընտրանք չկա
+indicator:select_all,Select all,Ընտրել ամբողջը
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Ընտրել ստորև բերված կատեգորիաները `տվյալների տարբեր ենթախմբերը տեսնելու համար: Ոմանք հասանելի չեն լինի, մինչև չընտրվի առավել բարձր մակարդակը: "
+indicator:source,Source,Աղբյուր
+indicator:sources,Sources,Աղբյուրներ
+indicator:sub_categories,Sub-categories,Ենթախմբեր
+indicator:table,Table,Աղյուսակ
+indicator:unit_of_measurement,Unit of Measurement,Չափման  միավոր
+indicator:units_type,Units type,Միավորների տեսակը
+indicator:variable_hint,Available when '%field' is selected,"Հասանելի է, երբ ընտրված է դաշտը '%field' "
+indicator:view_indicator_list,View this goal's indicator list,Տեսնել այս նպատակի ցուցանիշների ցանկը
 search:found_in,found in,Գտնված է
 search:indicator_search,Indicator search,Ցուցանիշների որոնում
 search:keywords,Keywords,Հիմնաբառեր
 search:no_results,No results,Արդյունքներ չկան
 search:search,Search,Որոնում
 search:search_results_for,Search results for,Որոնման արդյունքներ
+frontpage:heading,[AVAILABLE SOON] Korean Data of UN SDGs,%name Կայուն զարգացման նպատակների ցուցանիշների տվյալներ
+frontpage:instructions,,"Սեղմեք յուրաքանչյուր նպատակի վրա %before_link որոնում, %after_link երկիր_անվանում Կայուն Զարգացման Նպատակների գլոբալ ցուցանիշների համար "
+post:posts_by_category,Posts by Category,Գրառումներ ըստ կատեգորիաների  
+post:view_all_in_category,View all posts in the %category_name category,Տեսնել բոլոր գրառումները %category_name category
