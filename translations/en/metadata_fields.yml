@@ -2,8 +2,8 @@ comments_limitations: Other information
 computation_calculations: Calculations
 computation_definitions: Definitions
 computation_units: Unit of measurement
-national_metadata_link: 
-global_metadata_link: Link to UN metadata
+goal_meta_link: Global metadata
+goal_meta_local_link: National metadata
 indicator: Indicator number
 indicator_definition: Global indicator description
 indicator_name: Indicator name
