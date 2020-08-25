@@ -1,9 +1,17 @@
 ﻿key,en,ru
+header:alpha,Alpha,Альфа
+header:default_contrast,ABC,стандартный контраст
+header:disable_high_contrast,Disable high contrast,Отключить высокую контрастность
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Это сайт находится в разработке. Мы рады вашим отзывам.
+header:enable_high_contrast,Enable high contrast,Включить высокую контрастность
+header:high_contrast,ABC,высокий контраст
+header:skip_link,Skip to main content,Перейти к главному содержанию
+header:tag_line,17 Goals to Transform our World,"17 Целей, чтобы преобразовать наш мир"
 metadata_fields:comments_limitations,Other information,Другая информация
 metadata_fields:computation_calculations,Calculations,Расчёты
 metadata_fields:computation_definitions,Definitions,Определения
 metadata_fields:computation_units,Unit of measurement,Единица измерения
-metadata_fields:global_metadata,Global medadata,
+metadata_fields:global_metadata,Global metadata,
 metadata_fields:goal_meta_link,Global metadata,Ссылка на метаданные ООН
 metadata_fields:goal_meta_local_link,National metadata,
 metadata_fields:indicator,Indicator number,Номер показателя
@@ -14,7 +22,7 @@ metadata_fields:national_data_update_url,Data last updated,Последний р
 metadata_fields:national_geographical_coverage,Geographical coverage,Географический охват
 metadata_fields:national_indicator_available,Indicator available,Показатель доступен
 metadata_fields:national_indicator_description,Indicator description,Описание показателя
-metadata_fields:national_metadata,National medadata,
+metadata_fields:national_metadata,National metadata,
 metadata_fields:national_metadata_update_url,Metadata last updated, Последний раз метаданные обновлялись
 metadata_fields:source_contact_1,Contact details,Контактные данные
 metadata_fields:source_contact_2,Contact details,Контактные данные
@@ -80,31 +88,6 @@ metadata_fields:target,Target name,Название задачи
 metadata_fields:target_id,Target number,Номер задачи
 metadata_fields:un_custodian_agency,UN custodian agency,Депозитарное учреждение ООН 
 metadata_fields:un_designated_tier,UN designated tier,Назначенный ООН уровень
-header:alpha,Alpha,Альфа
-header:default_contrast,ABC,стандартный контраст
-header:disable_high_contrast,Disable high contrast,Отключить высокую контрастность
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Это сайт находится в разработке. Мы рады вашим отзывам.
-header:enable_high_contrast,Enable high contrast,Включить высокую контрастность
-header:high_contrast,ABC,высокий контраст
-header:skip_link,Skip to main content,Перейти к главному содержанию
-header:tag_line,17 Goals to Transform our World,"17 Целей, чтобы преобразовать наш мир"
-frontpage:heading,[AVAILABLE SOON] Korean Data of UN SDGs,%name данные для целей в области устойчивого развития
-frontpage:instructions,,"Нажмите на каждую цель, или %before_link поищите %after_link статистики для глобальных показателей целей в области устойчивого развития."
-search:found_in,found in,найдено в
-search:indicator_search,Indicator search,Поиск показателя
-search:keywords,Keywords,Ключевые слова
-search:no_results,No results,Результатов не найдено
-search:search,Search,Поиск
-search:search_results_for,Search results for,Результаты поиска по вашему запросу
-menu:about,About SDGs,О нас
-menu:contact_us,Contact us,Свяжитесь с нами
-menu:cookies,Cookies,Cookies
-menu:faq,FAQ,Часто задаваемые вопросы
-menu:guidance,Guidance,Руководство
-menu:menu,Menu,Меню
-menu:publications,Publications,Публикации
-menu:reporting_status,Data selection,Состояние отчётности
-menu:updates,Updates,
 global_goals:1-short,No poverty,Ликвидация нищеты
 global_goals:1-title,End poverty in all its forms everywhere,Повсеместная ликвидация нищеты во всех ее формах
 global_goals:10-short,Reduced inequalities,Уменьшение неравенства
@@ -1119,6 +1102,14 @@ global_targets:9-c-title,Significantly increase access to information and commun
 технологиям и стремиться
 к обеспечению всеобщего и недорогого доступа к
 Интернету в наименее развитых странах к 2020 году"
+search:found_in,found in,найдено в
+search:indicator_search,Indicator search,Поиск показателя
+search:keywords,Keywords,Ключевые слова
+search:no_results,No results,Результатов не найдено
+search:search,Search,Поиск
+search:search_results_for,Search results for,Результаты поиска по вашему запросу
+frontpage:heading,[AVAILABLE SOON] Korean Data of UN SDGs,%name данные для целей в области устойчивого развития
+frontpage:instructions,,"Нажмите на каждую цель, или %before_link поищите %after_link статистики для глобальных показателей целей в области устойчивого развития."
 indicator:chart,Chart,График
 indicator:clear_all,Clear all,Очистить всё
 indicator:clear_selections,Clear selections,Очистить выделенное
@@ -1157,6 +1148,27 @@ indicator:unit_of_measurement,Unit of Measurement,Единица измерен�
 indicator:units_type,Units type,Вид единиц
 indicator:variable_hint,Available when '%field' is selected,"Доступно, когда выбрано"
 indicator:view_indicator_list,View this goal's indicator list,Посмотреть список индикаторов этой цели
+general:facebook,Facebook,Facebook
+general:goal,Goal,Цель
+general:goals,Progress by goal,Цели
+general:home,Home,Главная
+general:indicator,Indicator,Показатель
+general:indicators,Indicators,Показатели
+general:loading,Loading search results,Загрузка результатов поиска
+general:opens_new_window,opens in a new window,открывается в новой вкладке
+general:sdg,Sustainable Development Goals,Цели в области устойчивого развития
+general:target,Target,Задача
+general:targets,Targets,Задачи
+general:twitter,Twitter,Твиттеру
+menu:about,About SDGs,О нас
+menu:contact_us,Contact us,Свяжитесь с нами
+menu:cookies,Cookies,Cookies
+menu:faq,FAQ,Часто задаваемые вопросы
+menu:guidance,Guidance,Руководство
+menu:menu,Menu,Меню
+menu:publications,Publications,Публикации
+menu:reporting_status,Data selection,Состояние отчётности
+menu:updates,Updates,
 status:exploring_data_sources,Exploring data sources,В процессе разработки
 status:not_applicable,Unavailable,Непригодный
 status:overall_reporting_status,Overall Reporting Status,Общее состояние отчётности
@@ -1164,8 +1176,6 @@ status:reported_online,Reported online,Опубликован
 status:reporting_status,Reporting Status,Статус отчётности
 status:statistics_in_progress,Statistics in progress,Статистика в процессе выполнения
 status:status_by_goal,Status by goal,Статус по цели
-post:posts_by_category,Posts by Category,Посты по категории
-post:view_all_in_category,View all posts in the %category_name category,Просмотреть все посты в категории
 global_indicators:1-1-1-title,"Proportion of the population living below the international poverty line by sex, age, employment status and geographical location (urban/rural)","Доля населения, живущего за международной
 чертой бедности, в разбивке по полу, возрасту,
 статусу занятости и месту проживания (городское/сельское)
@@ -2021,15 +2031,5 @@ global_indicators:9-b-1-title,Proportion of medium and high-tech industry value 
 в общем объеме добавленной стоимости"
 global_indicators:9-c-1-title,"Proportion of population covered by a mobile network, by technology","Доля населения, охваченного мобильными
 сетями, в разбивке по технологиям"
-general:facebook,Facebook,Facebook
-general:goal,Goal,Цель
-general:goals,Progress by goal,Цели
-general:home,Home,Главная
-general:indicator,Indicator,Показатель
-general:indicators,Indicators,Показатели
-general:loading,Loading search results,Загрузка результатов поиска
-general:opens_new_window,opens in a new window,открывается в новой вкладке
-general:sdg,Sustainable Development Goals,Цели в области устойчивого развития
-general:target,Target,Задача
-general:targets,Targets,Задачи
-general:twitter,Twitter,Твиттеру
+post:posts_by_category,Posts by Category,Посты по категории
+post:view_all_in_category,View all posts in the %category_name category,Просмотреть все посты в категории
