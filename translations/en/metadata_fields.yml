@@ -2,7 +2,8 @@ comments_limitations: Other information
 computation_calculations: Calculations
 computation_definitions: Definitions
 computation_units: Unit of measurement
-goal_meta_link: Link to UN metadata
+national_metadata_link: Link to UN metadata
+global_metadata_link: Link to UN metadata
 indicator: Indicator number
 indicator_definition: Global indicator description
 indicator_name: Indicator name
@@ -12,8 +13,8 @@ national_geographical_coverage: Geographical coverage
 national_indicator_available: Indicator available
 national_indicator_description: Indicator description
 national_metadata_update_url: Metadata last updated
-national_medadata: National medadata
-global_medadata: Global medadata
+national_metadata: National medadata
+global_metadata: Global medadata
 source_contact_1: Contact details
 source_contact_2: Contact details
 source_contact_3: Contact details
