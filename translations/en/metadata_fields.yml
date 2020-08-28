@@ -13,6 +13,8 @@ national_geographical_coverage: Geographical coverage
 national_indicator_available: Indicator available
 national_indicator_description: Indicator description
 national_metadata_update_url: Metadata last updated
+national_metadata: National metadata
+global_metadata: Global metadata
 source_contact_1: Contact details
 source_contact_2: Contact details
 source_contact_3: Contact details
